@@ -1,0 +1,6805 @@
+{
+  "students": [
+    {
+      "_id": "STU001",
+      "register_no": "22B91A0501",
+      "name": "Veera Kumar",
+      "gender": "Male",
+      "year": "3rd Year",
+      "department": "CSE",
+      "section": "A",
+      "date_of_birth": "2004-07-15",
+      "address": {
+        "door_no": "12-45",
+        "street": "Main Road",
+        "city": "Rameswarampeta",
+        "state": "Andhra Pradesh",
+        "pincode": "533437"
+      },
+      "bus_details": {
+        "bus_id": "BUS003",
+        "bus_number": "BUS-03",
+        "route_name": "ROUTE-C",
+        "boarding_point": "Rameswarampeta",
+        "routeName": ""
+      },
+      "parent_id": "PAR001",
+      "driver_id": "DRV001",
+      "qr_student_id": "STU001",
+      "profile_photo": "",
+      "password": "veera123",
+      "parent_password": "parent123",
+      "parent_phone": "9133708513",
+      "parent_email": "parent.veera@email.com",
+      "home_latitude": 17.083747,
+      "home_longitude": 82.049924,
+      "boardingPoint": "Rameswarampeta",
+      "landmark": "Rameswarampeta centre",
+      "latitude": 17.083747,
+      "longitude": 82.049924,
+      "allowedRadiusMeters": 500,
+      "trackingStatus": "BOARDED_TO_COLLEGE",
+      "attendanceException": "",
+      "status": "active",
+      "createdAt": "2026-06-13T04:34:13.606Z",
+      "updatedAt": "2026-06-20T15:57:42.522Z",
+      "__v": 0
+    },
+    {
+      "_id": "STU002",
+      "register_no": "22B91A0502",
+      "name": "Arjun Sharma",
+      "gender": "Male",
+      "year": "3rd Year",
+      "department": "CSE",
+      "section": "A",
+      "date_of_birth": "2004-05-22",
+      "address": {
+        "door_no": "8-12",
+        "street": "Rama Rao peta",
+        "city": "Kakinada",
+        "state": "AP",
+        "pincode": "533004"
+      },
+      "bus_details": {
+        "bus_id": "BUS002",
+        "bus_number": "BUS-07",
+        "route_name": "ROUTE-B",
+        "boarding_point": "Rama Rao peta",
+        "routeName": ""
+      },
+      "parent_id": "PAR002",
+      "driver_id": "DRV001",
+      "qr_student_id": "STU002",
+      "profile_photo": "",
+      "password": "arjun123",
+      "parent_password": "parent123",
+      "parent_phone": "9133708513",
+      "parent_email": "parent.arjun@email.com",
+      "home_latitude": 16.96040754288642,
+      "home_longitude": 82.22834108086862,
+      "boardingPoint": "Rama Rao peta",
+      "landmark": "Rama Rao peta",
+      "latitude": 16.96040754288642,
+      "longitude": 82.22834108086862,
+      "allowedRadiusMeters": 200,
+      "trackingStatus": "REACHED_HOME",
+      "attendanceException": "",
+      "status": "active",
+      "createdAt": "2026-06-13T04:34:13.606Z",
+      "updatedAt": "2026-06-21T06:43:29.140Z",
+      "__v": 0
+    },
+    {
+      "_id": "STU003",
+      "register_no": "24B11DS068",
+      "name": "Veerendra",
+      "gender": "Male",
+      "year": "3",
+      "department": "CSE-DS",
+      "section": "A",
+      "date_of_birth": "2007-06-11",
+      "address": {
+        "door_no": "5-98",
+        "street": "kakinada",
+        "city": "kakinada",
+        "state": "AP",
+        "pincode": "533003"
+      },
+      "bus_details": {
+        "bus_id": "BUS002",
+        "bus_number": "BUS-07",
+        "route_name": "ROUTE-B",
+        "boarding_point": "kakinada",
+        "routeName": ""
+      },
+      "parent_id": "PAR003",
+      "driver_id": "",
+      "qr_student_id": "24B11DS068",
+      "profile_photo": "",
+      "password": "veer123",
+      "parent_password": "veer123",
+      "parent_phone": "9133708513",
+      "parent_email": "veer@gmail.com",
+      "home_latitude": 16.969471566831924,
+      "home_longitude": 81.2333499980655,
+      "boardingPoint": "kakinada",
+      "landmark": "kakinada town junction",
+      "latitude": 16.969471566831924,
+      "longitude": 81.2333499980655,
+      "allowedRadiusMeters": 200,
+      "trackingStatus": "BOARDED_TO_COLLEGE",
+      "attendanceException": "",
+      "status": "active",
+      "createdAt": "2026-06-13T04:34:13.606Z",
+      "updatedAt": "2026-06-21T06:24:29.158Z",
+      "__v": 0
+    },
+    {
+      "_id": "STU004",
+      "register_no": "24B11DS005",
+      "name": "A.V.S.Manikanta",
+      "gender": "Other",
+      "year": "3",
+      "department": "CSE-DS",
+      "section": "A",
+      "date_of_birth": "2009-10-13",
+      "address": {
+        "door_no": "1-89",
+        "street": "ragamapeta",
+        "city": "ragamapeta",
+        "state": "AP",
+        "pincode": "854756"
+      },
+      "bus_details": {
+        "bus_id": "BUS004",
+        "bus_number": "BUS-09",
+        "route_name": "ROUTE-D",
+        "boarding_point": "ragamapeta",
+        "routeName": ""
+      },
+      "parent_id": "PAR004",
+      "driver_id": "",
+      "qr_student_id": "24B11DS005",
+      "profile_photo": "",
+      "password": "mani123",
+      "parent_password": "mani123",
+      "parent_phone": "6301635524",
+      "parent_email": "mani@gmail.com",
+      "home_latitude": 0,
+      "home_longitude": 0,
+      "boardingPoint": "",
+      "landmark": "",
+      "latitude": 0,
+      "longitude": 0,
+      "allowedRadiusMeters": 200,
+      "trackingStatus": "BOARDED_TO_COLLEGE",
+      "attendanceException": "",
+      "status": "active",
+      "createdAt": "2026-06-15T06:19:23.844Z",
+      "updatedAt": "2026-06-22T04:29:53.915Z",
+      "__v": 0
+    },
+    {
+      "_id": "STU005",
+      "register_no": "24B11IT061",
+      "name": "Rajesh",
+      "gender": "Male",
+      "year": "3",
+      "department": "IT",
+      "section": "A",
+      "date_of_birth": "2006-06-16",
+      "address": {
+        "door_no": "7-89",
+        "street": "Venkatapuram",
+        "city": "Venkatapuram",
+        "state": "AP",
+        "pincode": "897654"
+      },
+      "bus_details": {
+        "bus_id": "BUS003",
+        "bus_number": "BUS-03",
+        "route_name": "ROUTE-C",
+        "boarding_point": "Venkatapuram",
+        "routeName": ""
+      },
+      "parent_id": "PAR005",
+      "driver_id": "",
+      "qr_student_id": "24B11IT061",
+      "profile_photo": "",
+      "password": "raj123",
+      "parent_password": "raj123",
+      "parent_phone": "9133708513",
+      "parent_email": "veeru@gmail.com",
+      "home_latitude": 17.047838,
+      "home_longitude": 81.840676,
+      "boardingPoint": "",
+      "landmark": "",
+      "latitude": 0,
+      "longitude": 0,
+      "allowedRadiusMeters": 200,
+      "trackingStatus": "REACHED_HOME",
+      "attendanceException": "",
+      "status": "active",
+      "createdAt": "2026-06-16T11:17:32.647Z",
+      "updatedAt": "2026-06-16T11:17:32.647Z",
+      "__v": 0
+    },
+    {
+      "_id": "STU006",
+      "register_no": "24B11DS001",
+      "name": "sai",
+      "gender": "Male",
+      "year": "3",
+      "department": "CSE-DS",
+      "section": "B",
+      "date_of_birth": "2006-02-15",
+      "address": {
+        "door_no": "7/44",
+        "street": "Diwancheruvu",
+        "city": "Rajahmundary",
+        "state": "AP",
+        "pincode": "232623"
+      },
+      "bus_details": {
+        "bus_id": "BUS003",
+        "bus_number": "BUS-03",
+        "route_name": "ROUTE-C",
+        "boarding_point": "Diwancheruvu",
+        "routeName": ""
+      },
+      "parent_id": "PAR006",
+      "driver_id": "",
+      "qr_student_id": "24B11DS001",
+      "profile_photo": "",
+      "password": "sai123",
+      "parent_password": "parentsai123",
+      "parent_phone": "9133708513",
+      "parent_email": "parentsai001@gmail.com",
+      "home_latitude": 17.045641,
+      "home_longitude": 81.839246,
+      "boardingPoint": "",
+      "landmark": "",
+      "latitude": 0,
+      "longitude": 0,
+      "allowedRadiusMeters": 200,
+      "trackingStatus": "BOARDED_TO_COLLEGE",
+      "attendanceException": "",
+      "status": "active",
+      "createdAt": "2026-06-16T11:44:01.716Z",
+      "updatedAt": "2026-06-20T05:43:54.872Z",
+      "__v": 0
+    },
+    {
+      "_id": "STU007",
+      "register_no": "24B11DS002",
+      "name": "madhan",
+      "gender": "Male",
+      "year": "3",
+      "department": "DS",
+      "section": "B",
+      "date_of_birth": "2020-02-12",
+      "address": {
+        "door_no": "7-89",
+        "street": "Rameswarampeta",
+        "city": "Rameswarampeta",
+        "state": "AP",
+        "pincode": "784561"
+      },
+      "bus_details": {
+        "bus_id": "BUS003",
+        "bus_number": "BUS-03",
+        "route_name": "ROUTE-C",
+        "boarding_point": "Rameswarampeta",
+        "routeName": ""
+      },
+      "parent_id": "PAR007",
+      "driver_id": "",
+      "qr_student_id": "24B11DS002",
+      "profile_photo": "",
+      "password": "madhan123",
+      "parent_password": "madhan123",
+      "parent_phone": "7997749831",
+      "parent_email": "parentmadhan002@gmail.com",
+      "home_latitude": 17.083747,
+      "home_longitude": 82.049924,
+      "boardingPoint": "Rameswarampeta",
+      "landmark": "Rameswarampeta  centre",
+      "latitude": 17.083747,
+      "longitude": 82.049924,
+      "allowedRadiusMeters": 500,
+      "trackingStatus": "BOARDED_TO_COLLEGE",
+      "attendanceException": "",
+      "status": "active",
+      "createdAt": "2026-06-16T13:06:13.939Z",
+      "updatedAt": "2026-06-20T18:15:27.202Z",
+      "__v": 0
+    },
+    {
+      "_id": "STU009",
+      "register_no": "24B11DS008",
+      "name": "balu",
+      "gender": "Male",
+      "year": "3",
+      "department": "CSE-DS",
+      "section": "A",
+      "date_of_birth": "2011-01-03",
+      "address": {
+        "door_no": "1-89",
+        "street": "Rameswarampeta",
+        "city": "Rameswarampeta",
+        "state": "AP",
+        "pincode": ""
+      },
+      "bus_details": {
+        "bus_id": "BUS003",
+        "bus_number": "BUS-03",
+        "route_name": "ROUTE-C",
+        "boarding_point": "Rameswarampeta",
+        "routeName": ""
+      },
+      "parent_id": "PAR009",
+      "driver_id": "",
+      "qr_student_id": "24B11DS008",
+      "profile_photo": "",
+      "password": "veera123",
+      "parent_password": "veera123",
+      "parent_phone": "9133708513",
+      "parent_email": "verre@gmail.com",
+      "home_latitude": 17.08493128468776,
+      "home_longitude": 82.04868166594179,
+      "boardingPoint": "Rameswarampeta",
+      "landmark": "Rameswarampeta center",
+      "latitude": 17.08493128468776,
+      "longitude": 82.04868166594179,
+      "allowedRadiusMeters": 2000,
+      "trackingStatus": "REACHED_COLLEGE",
+      "attendanceException": "",
+      "status": "active",
+      "createdAt": "2026-06-20T17:04:15.754Z",
+      "updatedAt": "2026-06-20T17:08:36.693Z",
+      "__v": 0
+    },
+    {
+      "_id": "STU010",
+      "register_no": "24B11CS001",
+      "name": "YOGI",
+      "gender": "Male",
+      "year": "3",
+      "department": "CSE",
+      "section": "B",
+      "date_of_birth": "2026-06-02",
+      "address": {
+        "door_no": "4/34",
+        "street": "Cyclone Colony",
+        "city": " Rajamahendravaram",
+        "state": " Andhra Pradesh",
+        "pincode": "533103"
+      },
+      "bus_details": {
+        "bus_id": "BUS003",
+        "bus_number": "BUS-03",
+        "route_name": "ROUTE-C",
+        "boarding_point": "Cyclone Colony",
+        "routeName": ""
+      },
+      "parent_id": "PAR010",
+      "driver_id": "",
+      "qr_student_id": "24B11CS001",
+      "profile_photo": "",
+      "password": "yogi123",
+      "parent_password": "yogi123",
+      "parent_phone": "9398242398",
+      "parent_email": "parentyogi@123",
+      "home_latitude": 17.020405,
+      "home_longitude": 81.798942,
+      "boardingPoint": "Cyclone Colony",
+      "landmark": "17.020405",
+      "latitude": 17.020405,
+      "longitude": 81.798942,
+      "allowedRadiusMeters": 200,
+      "trackingStatus": "BOARDED_TO_COLLEGE",
+      "attendanceException": "",
+      "status": "active",
+      "createdAt": "2026-06-20T18:28:41.614Z",
+      "updatedAt": "2026-06-20T18:29:36.295Z",
+      "__v": 0
+    },
+    {
+      "_id": "STU011",
+      "register_no": "24B11DS006",
+      "name": "karthik",
+      "gender": "Male",
+      "year": "3",
+      "department": "CSE-DS",
+      "section": "A",
+      "date_of_birth": "2008-01-29",
+      "address": {
+        "door_no": "1-63",
+        "street": "Venkata Krishnarayapuram",
+        "city": "kakinada",
+        "state": "AP",
+        "pincode": "533434"
+      },
+      "bus_details": {
+        "bus_id": "BUS002",
+        "bus_number": "BUS-07",
+        "route_name": "Kakinada Route",
+        "boarding_point": "Venkata Krishnarayapuram",
+        "routeName": ""
+      },
+      "parent_id": "PAR011",
+      "driver_id": "",
+      "qr_student_id": "24B11DS006",
+      "profile_photo": "",
+      "password": "karthik123",
+      "parent_password": "karthik123",
+      "parent_phone": "9133708513",
+      "parent_email": "karthik@gmail.com",
+      "home_latitude": 17.015599866319878,
+      "home_longitude": 82.18742512285728,
+      "boardingPoint": "Venkata Krishnarayapuram",
+      "landmark": "Venkata Krishnarayapuram",
+      "latitude": 17.015599866319878,
+      "longitude": 82.18742512285728,
+      "allowedRadiusMeters": 200,
+      "trackingStatus": "REACHED_HOME",
+      "attendanceException": "",
+      "status": "active",
+      "createdAt": "2026-06-21T11:29:58.076Z",
+      "updatedAt": "2026-06-21T11:29:58.076Z",
+      "__v": 0
+    },
+    {
+      "_id": "STU012",
+      "register_no": "24B11DS078",
+      "name": "Viswa sir",
+      "gender": "Male",
+      "year": "3",
+      "department": "DS",
+      "section": "A",
+      "date_of_birth": "2019-02-12",
+      "address": {
+        "door_no": "7-89",
+        "street": "ragamapeta",
+        "city": "ragamapeta",
+        "state": "AP",
+        "pincode": "533291"
+      },
+      "bus_details": {
+        "bus_id": "BUS004",
+        "bus_number": "BUS-09",
+        "route_name": "Peddapuram Route",
+        "boarding_point": "ragamapeta",
+        "routeName": ""
+      },
+      "parent_id": "PAR012",
+      "driver_id": "",
+      "qr_student_id": "24B11DS078",
+      "profile_photo": "",
+      "password": "viswa123",
+      "parent_password": "viswa123",
+      "parent_phone": "9133708513",
+      "parent_email": "parent@gmail.com",
+      "home_latitude": 17.0824493622366,
+      "home_longitude": 87.81995165768672,
+      "boardingPoint": "ragamapeta",
+      "landmark": "ragampeta",
+      "latitude": 17.0824493622366,
+      "longitude": 87.81995165768672,
+      "allowedRadiusMeters": 200,
+      "trackingStatus": "BOARDED_TO_COLLEGE",
+      "attendanceException": "",
+      "status": "active",
+      "createdAt": "2026-06-22T04:37:01.430Z",
+      "updatedAt": "2026-06-22T04:38:20.277Z",
+      "__v": 0
+    }
+  ],
+  "drivers": [
+    {
+      "_id": "DRV002",
+      "driver_id": "DRV002",
+      "name": "Amit Rao",
+      "phone": "9876543201",
+      "license": "KA-2026-4487",
+      "bus_id": "BUS002",
+      "bus_number": "BUS-07",
+      "route_name": "ROUTE-B",
+      "routeName": "",
+      "password": "amit123",
+      "status": "On route",
+      "createdAt": "2026-06-13T04:34:13.806Z",
+      "updatedAt": "2026-06-21T09:48:30.710Z",
+      "__v": 0
+    },
+    {
+      "_id": "DRV003",
+      "driver_id": "DRV003",
+      "name": "balaji",
+      "phone": "913708513",
+      "license": "DRE789",
+      "bus_id": "BUS003",
+      "bus_number": "BUS-03",
+      "route_name": "North Zone",
+      "routeName": "",
+      "password": "balu123",
+      "status": "On route",
+      "createdAt": "2026-06-13T04:34:13.806Z",
+      "updatedAt": "2026-06-13T04:34:13.806Z",
+      "__v": 0
+    },
+    {
+      "_id": "DRV001",
+      "driver_id": "DRV001",
+      "name": "Rajan Kumar",
+      "phone": "9876543200",
+      "license": "KA-2026-5521",
+      "bus_id": "BUS13298",
+      "bus_number": "BUS-10",
+      "route_name": "ROUTE-D",
+      "routeName": "",
+      "password": "rajan123",
+      "status": "On route",
+      "createdAt": "2026-06-13T04:34:13.806Z",
+      "updatedAt": "2026-06-21T11:15:11.712Z",
+      "__v": 0
+    },
+    {
+      "_id": "DRV004",
+      "driver_id": "DRV004",
+      "name": "Manikanta",
+      "phone": "756841239",
+      "license": "DGS44",
+      "bus_id": "BUS004",
+      "bus_number": "BUS-09",
+      "route_name": "ROUTE-D",
+      "routeName": "",
+      "password": "mani123",
+      "status": "On route",
+      "createdAt": "2026-06-15T04:37:53.072Z",
+      "updatedAt": "2026-06-21T09:48:35.990Z",
+      "__v": 0
+    }
+  ],
+  "buses": [
+    {
+      "_id": "6a2cddc5f47eb018a82aaefb",
+      "busId": "BUS001",
+      "busNumber": "BUS-12",
+      "busName": "Kakinada",
+      "vehicleNumber": "AP 5246",
+      "capacity": 40,
+      "routeId": "ROUTE-A",
+      "routeName": "Samalkot Route",
+      "active": true,
+      "driverId": "DRV001",
+      "status": "inactive",
+      "currentTripId": null,
+      "currentVillageId": null,
+      "nextVillageId": null,
+      "lastKnownLocation": {
+        "latitude": 17.0504,
+        "longitude": 82.1659,
+        "speed": 35,
+        "heading": 95,
+        "timestamp": "2026-06-16T10:25:47.291Z"
+      },
+      "createdAt": "2026-06-13T04:34:13.041Z",
+      "updatedAt": "2026-06-22T15:58:01.238Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a2cddc5f47eb018a82aaefc",
+      "busId": "BUS002",
+      "busNumber": "BUS-07",
+      "busName": "kakinada",
+      "vehicleNumber": "AP 9865",
+      "capacity": 40,
+      "routeId": "ROUTE-B",
+      "routeName": "Kakinada Route",
+      "active": true,
+      "driverId": "DRV002",
+      "status": "inactive",
+      "currentTripId": "TRIP-32ede9ff-3470-45e2-b128-35ebe6bfedbd",
+      "currentVillageId": "kakinada",
+      "nextVillageId": "Aditya University",
+      "lastKnownLocation": {
+        "latitude": 17.084976,
+        "longitude": 82.050133,
+        "speed": 0,
+        "heading": 0,
+        "timestamp": "2026-06-21T07:02:28.944Z"
+      },
+      "createdAt": "2026-06-13T04:34:13.122Z",
+      "updatedAt": "2026-06-22T15:58:01.280Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a2cddc5f47eb018a82aaefe",
+      "busId": "BUS004",
+      "busNumber": "BUS-09",
+      "busName": "samalkota",
+      "vehicleNumber": "AP 5486",
+      "capacity": 40,
+      "routeId": "ROUTE-D",
+      "routeName": "Peddapuram Route",
+      "active": true,
+      "driverId": "",
+      "status": "inactive",
+      "currentTripId": "TRIP-ab9b7437-5901-4110-a9f7-4110199769e5",
+      "currentVillageId": "ragamapeta",
+      "nextVillageId": "Aditya University",
+      "lastKnownLocation": {
+        "latitude": 17.089939,
+        "longitude": 82.067337,
+        "speed": 0,
+        "heading": 0,
+        "timestamp": "2026-06-22T04:37:34.033Z"
+      },
+      "createdAt": "2026-06-13T04:34:13.302Z",
+      "updatedAt": "2026-06-22T15:58:01.352Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a32a44a1bd7281ebcc1cf6c",
+      "busId": "BUS003",
+      "busNumber": "BUS-03",
+      "busName": "rajamundry",
+      "vehicleNumber": "AP 9133",
+      "capacity": 40,
+      "routeId": "ROUTE-C",
+      "routeName": "Rajahmundry Route",
+      "active": true,
+      "driverId": "",
+      "status": "inactive",
+      "currentTripId": "TRIP-6fa8f412-6507-4eb8-b5da-aca77c389bd9",
+      "currentVillageId": "Aditya University",
+      "nextVillageId": "Rameswarampeta",
+      "lastKnownLocation": {
+        "latitude": 17.085684,
+        "longitude": 82.051407,
+        "speed": 0,
+        "heading": 0,
+        "timestamp": "2026-06-22T10:46:26.702Z"
+      },
+      "createdAt": "2026-06-17T13:42:34.142Z",
+      "updatedAt": "2026-06-22T15:58:01.316Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a37c055e9d83e5905776178",
+      "busId": "BUS13298",
+      "busNumber": "BUS-10",
+      "busName": "Annavaram",
+      "vehicleNumber": "AP 0562",
+      "capacity": 40,
+      "routeId": "ROUTE-D",
+      "routeName": "Peddapuram to Aditya University Route",
+      "active": true,
+      "driverId": "DRV001",
+      "status": "active",
+      "currentTripId": null,
+      "currentVillageId": null,
+      "nextVillageId": null,
+      "createdAt": "2026-06-21T10:43:33.301Z",
+      "updatedAt": "2026-06-21T11:15:11.916Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a3910dd7ea8d2a852cb8246",
+      "busId": "BUS999",
+      "busNumber": "TEST-BUS-99",
+      "busName": "",
+      "capacity": 40,
+      "routeId": "ROUTE-C",
+      "routeName": "",
+      "active": true,
+      "driverId": "",
+      "status": "active",
+      "currentTripId": "TRIP-60234b0b-ff22-4c9f-8bd4-c7c8fcb2e51d",
+      "currentVillageId": "ROUTE-C-VIL-001",
+      "nextVillageId": "ROUTE-C-VIL-002",
+      "createdAt": "2026-06-22T10:39:25.436Z",
+      "updatedAt": "2026-06-22T10:39:44.043Z",
+      "__v": 0
+    }
+  ],
+  "trips": [
+    {
+      "_id": "6a31249fc2d957f8fc5360e2",
+      "tripId": "TRIP-9a57ef0f-1fbf-4b1f-a134-81e4fa255cb5",
+      "busId": "BUS001",
+      "driverId": "DRV001",
+      "routeId": "ROUTE-A",
+      "startTime": "2026-06-16T10:25:35.515Z",
+      "endTime": "2026-06-16T10:26:00.396Z",
+      "status": "completed",
+      "direction": "to_college",
+      "tripType": "",
+      "routeProgress": [
+        {
+          "villageId": "ROUTE-A-VIL-001",
+          "villageName": "Samalkot",
+          "sequence": 1,
+          "latitude": 17.0504,
+          "longitude": 82.1659,
+          "crossed": true,
+          "crossedAt": "2026-06-16T10:25:47.291Z",
+          "consecutivePings": 2,
+          "status": "crossed"
+        },
+        {
+          "villageId": "ROUTE-A-VIL-002",
+          "villageName": "Vetlapalem",
+          "sequence": 2,
+          "latitude": 17.0259,
+          "longitude": 82.1369,
+          "crossed": false,
+          "crossedAt": null,
+          "consecutivePings": 0,
+          "status": "current"
+        },
+        {
+          "villageId": "ROUTE-A-VIL-003",
+          "villageName": "Peddapuram",
+          "sequence": 3,
+          "latitude": 17.0757,
+          "longitude": 82.1433,
+          "crossed": false,
+          "crossedAt": null,
+          "consecutivePings": 0,
+          "status": "pending"
+        },
+        {
+          "villageId": "ROUTE-A-VIL-004",
+          "villageName": "Yerrampalem",
+          "sequence": 4,
+          "latitude": 17.0864,
+          "longitude": 82.0945,
+          "crossed": false,
+          "crossedAt": null,
+          "consecutivePings": 0,
+          "status": "pending"
+        },
+        {
+          "villageId": "ROUTE-A-VIL-005",
+          "villageName": "Aditya University",
+          "sequence": 5,
+          "latitude": 17.0912,
+          "longitude": 82.0665,
+          "crossed": false,
+          "crossedAt": null,
+          "consecutivePings": 0,
+          "status": "pending"
+        }
+      ],
+      "totalDistanceKm": 18.54,
+      "remainingDistanceKm": 18.04,
+      "currentSpeedKmph": 35,
+      "currentLocation": {
+        "latitude": 17.0504,
+        "longitude": 82.1659,
+        "speed": 35,
+        "heading": 95,
+        "timestamp": "2026-06-16T10:25:47.291Z"
+      },
+      "routePath": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            82.1659,
+            17.0504
+          ],
+          [
+            82.1659,
+            17.0504
+          ]
+        ]
+      },
+      "lastUpdatedAt": "2026-06-16T10:25:47.291Z",
+      "summary": {
+        "averageSpeedKmph": 32.5,
+        "maxSpeedKmph": 35,
+        "villagesCrossed": 1,
+        "durationMinutes": 1,
+        "totalBoarded": 0,
+        "totalDropped": 0,
+        "peakOccupancy": 0,
+        "averageOccupancy": 0
+      },
+      "isDemo": false,
+      "createdAt": "2026-06-16T10:25:35.530Z",
+      "updatedAt": "2026-06-16T10:26:00.399Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a34c965f3a34133dbd02e47",
+      "tripId": "TRIP-d9cbb05f-0e49-4a9b-a075-cf4d1fdf3e15",
+      "busId": "BUS003",
+      "driverId": "DRV003",
+      "routeId": "ROUTE-C",
+      "startTime": "2026-06-19T04:45:25.169Z",
+      "endTime": "2026-06-19T04:50:20.486Z",
+      "status": "completed",
+      "direction": "to_college",
+      "tripType": "",
+      "routeProgress": [
+        {
+          "villageId": "Diwancheruvu",
+          "villageName": "Diwancheruvu",
+          "sequence": 1,
+          "latitude": 17.045641,
+          "longitude": 81.839246,
+          "crossed": false,
+          "crossedAt": null,
+          "consecutivePings": 0,
+          "status": "current"
+        },
+        {
+          "villageId": "Venkatapuram",
+          "villageName": "Venkatapuram",
+          "sequence": 2,
+          "latitude": 17.047838,
+          "longitude": 81.840676,
+          "crossed": false,
+          "crossedAt": null,
+          "consecutivePings": 0,
+          "status": "pending"
+        },
+        {
+          "villageId": "Rameswarampeta",
+          "villageName": "Rameswarampeta",
+          "sequence": 3,
+          "latitude": 17.083747,
+          "longitude": 82.049924,
+          "crossed": false,
+          "crossedAt": null,
+          "consecutivePings": 0,
+          "status": "pending"
+        },
+        {
+          "villageId": "Aditya University",
+          "villageName": "Aditya University",
+          "sequence": 4,
+          "latitude": 17.0912,
+          "longitude": 82.0665,
+          "crossed": false,
+          "crossedAt": null,
+          "consecutivePings": 0,
+          "status": "pending"
+        }
+      ],
+      "totalDistanceKm": 49.5,
+      "remainingDistanceKm": 49.5,
+      "currentSpeedKmph": 0,
+      "currentLocation": {
+        "latitude": 17.08975,
+        "longitude": 82.06663,
+        "speed": 0,
+        "heading": 0,
+        "timestamp": "2026-06-19T04:45:56.504Z"
+      },
+      "routePath": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            82.067108,
+            17.090162
+          ],
+          [
+            82.06663,
+            17.08975
+          ]
+        ]
+      },
+      "lastUpdatedAt": "2026-06-19T04:45:56.504Z",
+      "summary": {
+        "averageSpeedKmph": 0,
+        "maxSpeedKmph": 0,
+        "villagesCrossed": 0,
+        "durationMinutes": 5,
+        "totalBoarded": 0,
+        "totalDropped": 0,
+        "peakOccupancy": 0,
+        "averageOccupancy": 0
+      },
+      "isDemo": false,
+      "createdAt": "2026-06-19T04:45:25.184Z",
+      "updatedAt": "2026-06-19T04:50:20.490Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a34d0a1d244bee0a98b34cd",
+      "tripId": "TRIP-a662c018-ed6f-462e-8b55-fdc94094b480",
+      "busId": "BUS003",
+      "driverId": "DRV003",
+      "routeId": "ROUTE-C",
+      "startTime": "2026-06-19T05:16:17.100Z",
+      "endTime": "2026-06-19T05:49:09.976Z",
+      "status": "completed",
+      "direction": "to_college",
+      "tripType": "",
+      "routeProgress": [
+        {
+          "villageId": "Diwancheruvu",
+          "villageName": "Diwancheruvu",
+          "sequence": 1,
+          "latitude": 17.045641,
+          "longitude": 81.839246,
+          "crossed": false,
+          "crossedAt": null,
+          "consecutivePings": 0,
+          "status": "current"
+        },
+        {
+          "villageId": "Venkatapuram",
+          "villageName": "Venkatapuram",
+          "sequence": 2,
+          "latitude": 17.047838,
+          "longitude": 81.840676,
+          "crossed": false,
+          "crossedAt": null,
+          "consecutivePings": 0,
+          "status": "pending"
+        },
+        {
+          "villageId": "Rameswarampeta",
+          "villageName": "Rameswarampeta",
+          "sequence": 3,
+          "latitude": 17.083747,
+          "longitude": 82.049924,
+          "crossed": false,
+          "crossedAt": null,
+          "consecutivePings": 0,
+          "status": "pending"
+        },
+        {
+          "villageId": "Aditya University",
+          "villageName": "Aditya University",
+          "sequence": 4,
+          "latitude": 17.0912,
+          "longitude": 82.0665,
+          "crossed": false,
+          "crossedAt": null,
+          "consecutivePings": 0,
+          "status": "pending"
+        }
+      ],
+      "totalDistanceKm": 49.57,
+      "remainingDistanceKm": 49.57,
+      "currentSpeedKmph": 0,
+      "currentLocation": {
+        "latitude": 17.089939,
+        "longitude": 82.067337,
+        "speed": 0,
+        "heading": 0,
+        "timestamp": "2026-06-19T05:29:09.734Z"
+      },
+      "routePath": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            82.06663,
+            17.08975
+          ],
+          [
+            82.06663,
+            17.08975
+          ],
+          [
+            82.068195,
+            17.089665
+          ],
+          [
+            82.06663,
+            17.08975
+          ],
+          [
+            82.066847,
+            17.090045
+          ],
+          [
+            82.06663,
+            17.08975
+          ],
+          [
+            82.068173,
+            17.089666
+          ],
+          [
+            82.066792,
+            17.090109
+          ],
+          [
+            82.066994,
+            17.090073
+          ],
+          [
+            82.066883,
+            17.089998
+          ],
+          [
+            82.067039,
+            17.089706
+          ],
+          [
+            82.06663,
+            17.08975
+          ],
+          [
+            82.068189,
+            17.089664
+          ],
+          [
+            82.068195,
+            17.089666
+          ],
+          [
+            82.2417,
+            17.0157
+          ],
+          [
+            82.067131,
+            17.090097
+          ],
+          [
+            82.06720631608133,
+            17.089904064695013
+          ],
+          [
+            82.067337,
+            17.089939
+          ],
+          [
+            82.067337,
+            17.089939
+          ],
+          [
+            82.06720631608133,
+            17.089904064695013
+          ],
+          [
+            82.067337,
+            17.089939
+          ],
+          [
+            82.067337,
+            17.089939
+          ],
+          [
+            82.06720631608133,
+            17.089904064695013
+          ],
+          [
+            82.06720631608133,
+            17.089904064695013
+          ],
+          [
+            82.067337,
+            17.089939
+          ],
+          [
+            82.067337,
+            17.089939
+          ],
+          [
+            82.06720631608133,
+            17.089904064695013
+          ],
+          [
+            82.06720631608133,
+            17.089904064695013
+          ],
+          [
+            82.067337,
+            17.089939
+          ]
+        ]
+      },
+      "lastUpdatedAt": "2026-06-19T05:29:09.734Z",
+      "summary": {
+        "averageSpeedKmph": 0,
+        "maxSpeedKmph": 0,
+        "villagesCrossed": 0,
+        "durationMinutes": 33,
+        "totalBoarded": 0,
+        "totalDropped": 0,
+        "peakOccupancy": 0,
+        "averageOccupancy": 0
+      },
+      "isDemo": false,
+      "createdAt": "2026-06-19T05:16:17.107Z",
+      "updatedAt": "2026-06-19T05:49:09.983Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a34d86777455c8a3d9d9387",
+      "tripId": "TRIP-8c709cde-f383-4327-9545-e1eb76902a17",
+      "busId": "BUS003",
+      "driverId": "DRV003",
+      "routeId": "ROUTE-C",
+      "startTime": "2026-06-19T05:49:27.775Z",
+      "endTime": "2026-06-19T05:49:46.104Z",
+      "status": "completed",
+      "direction": "to_college",
+      "tripType": "Trip 1 - Home → College",
+      "routeProgress": [
+        {
+          "villageId": "Diwancheruvu",
+          "villageName": "Diwancheruvu",
+          "sequence": 1,
+          "latitude": 17.045641,
+          "longitude": 81.839246,
+          "crossed": false,
+          "crossedAt": null,
+          "consecutivePings": 0,
+          "status": "current"
+        },
+        {
+          "villageId": "Venkatapuram",
+          "villageName": "Venkatapuram",
+          "sequence": 2,
+          "latitude": 17.047838,
+          "longitude": 81.840676,
+          "crossed": false,
+          "crossedAt": null,
+          "consecutivePings": 0,
+          "status": "pending"
+        },
+        {
+          "villageId": "Rameswarampeta",
+          "villageName": "Rameswarampeta",
+          "sequence": 3,
+          "latitude": 17.083747,
+          "longitude": 82.049924,
+          "crossed": false,
+          "crossedAt": null,
+          "consecutivePings": 0,
+          "status": "pending"
+        },
+        {
+          "villageId": "Aditya University",
+          "villageName": "Aditya University",
+          "sequence": 4,
+          "latitude": 17.0912,
+          "longitude": 82.0665,
+          "crossed": false,
+          "crossedAt": null,
+          "consecutivePings": 0,
+          "status": "pending"
+        }
+      ],
+      "totalDistanceKm": 49.57,
+      "remainingDistanceKm": 49.57,
+      "currentSpeedKmph": 0,
+      "currentLocation": {
+        "latitude": 17.089939,
+        "longitude": 82.067337,
+        "speed": 0,
+        "heading": 0,
+        "timestamp": "2026-06-19T05:49:37.656Z"
+      },
+      "routePath": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            82.067337,
+            17.089939
+          ]
+        ]
+      },
+      "lastUpdatedAt": "2026-06-19T05:49:37.656Z",
+      "summary": {
+        "averageSpeedKmph": 0,
+        "maxSpeedKmph": 0,
+        "villagesCrossed": 0,
+        "durationMinutes": 1,
+        "totalBoarded": 0,
+        "totalDropped": 0,
+        "peakOccupancy": 0,
+        "averageOccupancy": 0
+      },
+      "isDemo": false,
+      "createdAt": "2026-06-19T05:49:27.782Z",
+      "updatedAt": "2026-06-19T05:49:46.106Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a34d88677455c8a3d9d9393",
+      "tripId": "TRIP-fad0d557-1985-4a26-940a-8a8477368a83",
+      "busId": "BUS003",
+      "driverId": "DRV003",
+      "routeId": "ROUTE-C",
+      "startTime": "2026-06-19T05:49:58.699Z",
+      "endTime": "2026-06-19T05:50:55.636Z",
+      "status": "completed",
+      "direction": "from_college",
+      "tripType": "Trip 2 - College → Home",
+      "routeProgress": [
+        {
+          "villageId": "Aditya University",
+          "villageName": "Aditya University",
+          "sequence": 1,
+          "latitude": 17.0912,
+          "longitude": 82.0665,
+          "crossed": true,
+          "crossedAt": "2026-06-19T05:50:21.058Z",
+          "consecutivePings": 2,
+          "status": "crossed"
+        },
+        {
+          "villageId": "Rameswarampeta",
+          "villageName": "Rameswarampeta",
+          "sequence": 2,
+          "latitude": 17.083747,
+          "longitude": 82.049924,
+          "crossed": false,
+          "crossedAt": null,
+          "consecutivePings": 0,
+          "status": "current"
+        },
+        {
+          "villageId": "Venkatapuram",
+          "villageName": "Venkatapuram",
+          "sequence": 3,
+          "latitude": 17.047838,
+          "longitude": 81.840676,
+          "crossed": false,
+          "crossedAt": null,
+          "consecutivePings": 0,
+          "status": "pending"
+        },
+        {
+          "villageId": "Diwancheruvu",
+          "villageName": "Diwancheruvu",
+          "sequence": 4,
+          "latitude": 17.045641,
+          "longitude": 81.839246,
+          "crossed": false,
+          "crossedAt": null,
+          "consecutivePings": 0,
+          "status": "pending"
+        }
+      ],
+      "totalDistanceKm": 25.36,
+      "remainingDistanceKm": 24.86,
+      "currentSpeedKmph": 0,
+      "currentLocation": {
+        "latitude": 17.089939,
+        "longitude": 82.067337,
+        "speed": 0,
+        "heading": 0,
+        "timestamp": "2026-06-19T05:50:41.425Z"
+      },
+      "routePath": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            82.067337,
+            17.089939
+          ],
+          [
+            82.06720631608133,
+            17.089904064695013
+          ],
+          [
+            82.067337,
+            17.089939
+          ]
+        ]
+      },
+      "lastUpdatedAt": "2026-06-19T05:50:41.425Z",
+      "summary": {
+        "averageSpeedKmph": 0,
+        "maxSpeedKmph": 0,
+        "villagesCrossed": 1,
+        "durationMinutes": 1,
+        "totalBoarded": 0,
+        "totalDropped": 0,
+        "peakOccupancy": 0,
+        "averageOccupancy": 0
+      },
+      "isDemo": false,
+      "createdAt": "2026-06-19T05:49:58.705Z",
+      "updatedAt": "2026-06-19T05:50:55.639Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a34dc407133867f6f1bb659",
+      "tripId": "TRIP-01f572fd-a097-41f4-9e6c-eefdc51e0f03",
+      "busId": "BUS003",
+      "driverId": "DRV003",
+      "routeId": "ROUTE-C",
+      "startTime": "2026-06-19T06:05:52.763Z",
+      "endTime": "2026-06-19T06:09:03.005Z",
+      "status": "completed",
+      "direction": "to_college",
+      "tripType": "Trip 1 - Home → College",
+      "routeProgress": [
+        {
+          "villageId": "Diwancheruvu",
+          "villageName": "Diwancheruvu",
+          "sequence": 1,
+          "latitude": 17.045641,
+          "longitude": 81.839246,
+          "crossed": false,
+          "crossedAt": null,
+          "consecutivePings": 0,
+          "status": "current"
+        },
+        {
+          "villageId": "Venkatapuram",
+          "villageName": "Venkatapuram",
+          "sequence": 2,
+          "latitude": 17.047838,
+          "longitude": 81.840676,
+          "crossed": false,
+          "crossedAt": null,
+          "consecutivePings": 0,
+          "status": "pending"
+        },
+        {
+          "villageId": "Rameswarampeta",
+          "villageName": "Rameswarampeta",
+          "sequence": 3,
+          "latitude": 17.083747,
+          "longitude": 82.049924,
+          "crossed": false,
+          "crossedAt": null,
+          "consecutivePings": 0,
+          "status": "pending"
+        },
+        {
+          "villageId": "Aditya University",
+          "villageName": "Aditya University",
+          "sequence": 4,
+          "latitude": 17.0912,
+          "longitude": 82.0665,
+          "crossed": false,
+          "crossedAt": null,
+          "consecutivePings": 0,
+          "status": "pending"
+        }
+      ],
+      "totalDistanceKm": 49.56,
+      "remainingDistanceKm": 49.56,
+      "currentSpeedKmph": 0,
+      "currentLocation": {
+        "latitude": 17.089904064695013,
+        "longitude": 82.06720631608133,
+        "speed": 0,
+        "heading": 0,
+        "timestamp": "2026-06-19T06:06:02.593Z"
+      },
+      "routePath": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            82.06720631608133,
+            17.089904064695013
+          ]
+        ]
+      },
+      "lastUpdatedAt": "2026-06-19T06:06:02.593Z",
+      "summary": {
+        "averageSpeedKmph": 0,
+        "maxSpeedKmph": 0,
+        "villagesCrossed": 0,
+        "durationMinutes": 3,
+        "totalBoarded": 0,
+        "totalDropped": 0,
+        "peakOccupancy": 0,
+        "averageOccupancy": 0
+      },
+      "isDemo": false,
+      "createdAt": "2026-06-19T06:05:52.769Z",
+      "updatedAt": "2026-06-19T06:09:03.009Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a34dd0d7133867f6f1bb665",
+      "tripId": "TRIP-221ced20-7ba0-4852-9544-355a231d7c8c",
+      "busId": "BUS003",
+      "driverId": "DRV003",
+      "routeId": "ROUTE-C",
+      "startTime": "2026-06-19T06:09:17.527Z",
+      "endTime": "2026-06-19T06:13:55.861Z",
+      "status": "completed",
+      "direction": "from_college",
+      "tripType": "Trip 2 - College → Home",
+      "routeProgress": [
+        {
+          "villageId": "Aditya University",
+          "villageName": "Aditya University",
+          "sequence": 1,
+          "latitude": 17.0912,
+          "longitude": 82.0665,
+          "crossed": true,
+          "crossedAt": "2026-06-19T06:13:06.738Z",
+          "consecutivePings": 2,
+          "status": "crossed"
+        },
+        {
+          "villageId": "Rameswarampeta",
+          "villageName": "Rameswarampeta",
+          "sequence": 2,
+          "latitude": 17.083747,
+          "longitude": 82.049924,
+          "crossed": false,
+          "crossedAt": null,
+          "consecutivePings": 0,
+          "status": "current"
+        },
+        {
+          "villageId": "Venkatapuram",
+          "villageName": "Venkatapuram",
+          "sequence": 3,
+          "latitude": 17.047838,
+          "longitude": 81.840676,
+          "crossed": false,
+          "crossedAt": null,
+          "consecutivePings": 0,
+          "status": "pending"
+        },
+        {
+          "villageId": "Diwancheruvu",
+          "villageName": "Diwancheruvu",
+          "sequence": 4,
+          "latitude": 17.045641,
+          "longitude": 81.839246,
+          "crossed": false,
+          "crossedAt": null,
+          "consecutivePings": 0,
+          "status": "pending"
+        }
+      ],
+      "totalDistanceKm": 25.35,
+      "remainingDistanceKm": 24.85,
+      "currentSpeedKmph": 0,
+      "currentLocation": {
+        "latitude": 17.089904064695013,
+        "longitude": 82.06720631608133,
+        "speed": 0,
+        "heading": 0,
+        "timestamp": "2026-06-19T06:13:06.738Z"
+      },
+      "routePath": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            82.06720631608133,
+            17.089904064695013
+          ],
+          [
+            82.06720631608133,
+            17.089904064695013
+          ]
+        ]
+      },
+      "lastUpdatedAt": "2026-06-19T06:13:06.738Z",
+      "summary": {
+        "averageSpeedKmph": 0,
+        "maxSpeedKmph": 0,
+        "villagesCrossed": 1,
+        "durationMinutes": 5,
+        "totalBoarded": 0,
+        "totalDropped": 0,
+        "peakOccupancy": 0,
+        "averageOccupancy": 0
+      },
+      "isDemo": false,
+      "createdAt": "2026-06-19T06:09:17.531Z",
+      "updatedAt": "2026-06-19T06:13:55.869Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a362374d85c85cddbbb0946",
+      "tripId": "TRIP-68a2fa48-844b-4f21-b665-bdf77878ad69",
+      "busId": "BUS003",
+      "driverId": "DRV003",
+      "routeId": "ROUTE-C",
+      "startTime": "2026-06-20T05:21:56.972Z",
+      "endTime": "2026-06-20T05:22:22.032Z",
+      "status": "completed",
+      "direction": "to_college",
+      "tripType": "Trip 1 - Home → College",
+      "routeProgress": [
+        {
+          "villageId": "Diwancheruvu",
+          "villageName": "Diwancheruvu",
+          "sequence": 1,
+          "latitude": 17.045641,
+          "longitude": 81.839246,
+          "crossed": false,
+          "crossedAt": null,
+          "consecutivePings": 0,
+          "status": "current"
+        },
+        {
+          "villageId": "Venkatapuram",
+          "villageName": "Venkatapuram",
+          "sequence": 2,
+          "latitude": 17.047838,
+          "longitude": 81.840676,
+          "crossed": false,
+          "crossedAt": null,
+          "consecutivePings": 0,
+          "status": "pending"
+        },
+        {
+          "villageId": "Rameswarampeta",
+          "villageName": "Rameswarampeta",
+          "sequence": 3,
+          "latitude": 17.083747,
+          "longitude": 82.049924,
+          "crossed": false,
+          "crossedAt": null,
+          "consecutivePings": 0,
+          "status": "pending"
+        },
+        {
+          "villageId": "Aditya University",
+          "villageName": "Aditya University",
+          "sequence": 4,
+          "latitude": 17.0912,
+          "longitude": 82.0665,
+          "crossed": false,
+          "crossedAt": null,
+          "consecutivePings": 0,
+          "status": "pending"
+        }
+      ],
+      "totalDistanceKm": 49.56,
+      "remainingDistanceKm": 49.56,
+      "currentSpeedKmph": 0,
+      "currentLocation": {
+        "latitude": 17.089979,
+        "longitude": 82.06723,
+        "speed": 0,
+        "heading": 0,
+        "timestamp": "2026-06-20T05:22:21.523Z"
+      },
+      "routePath": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            82.0670637704918,
+            17.089915555737704
+          ],
+          [
+            82.06723,
+            17.089979
+          ]
+        ]
+      },
+      "lastUpdatedAt": "2026-06-20T05:22:21.523Z",
+      "summary": {
+        "averageSpeedKmph": 0,
+        "maxSpeedKmph": 0,
+        "villagesCrossed": 0,
+        "durationMinutes": 1,
+        "totalBoarded": 0,
+        "totalDropped": 0,
+        "peakOccupancy": 0,
+        "averageOccupancy": 0
+      },
+      "isDemo": false,
+      "createdAt": "2026-06-20T05:21:56.978Z",
+      "updatedAt": "2026-06-20T05:22:22.036Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a36239ed85c85cddbbb0953",
+      "tripId": "TRIP-c2cb7008-9fbe-4aa2-a625-c9309abc2550",
+      "busId": "BUS003",
+      "driverId": "DRV003",
+      "routeId": "ROUTE-C",
+      "startTime": "2026-06-20T05:22:38.306Z",
+      "endTime": "2026-06-20T05:42:34.199Z",
+      "status": "completed",
+      "direction": "from_college",
+      "tripType": "Trip 2 - College → Home",
+      "routeProgress": [
+        {
+          "villageId": "Aditya University",
+          "villageName": "Aditya University",
+          "sequence": 1,
+          "latitude": 17.0912,
+          "longitude": 82.0665,
+          "crossed": true,
+          "crossedAt": "2026-06-20T05:36:54.710Z",
+          "consecutivePings": 2,
+          "status": "crossed"
+        },
+        {
+          "villageId": "Rameswarampeta",
+          "villageName": "Rameswarampeta",
+          "sequence": 2,
+          "latitude": 17.083747,
+          "longitude": 82.049924,
+          "crossed": false,
+          "crossedAt": null,
+          "consecutivePings": 0,
+          "status": "current"
+        },
+        {
+          "villageId": "Venkatapuram",
+          "villageName": "Venkatapuram",
+          "sequence": 3,
+          "latitude": 17.047838,
+          "longitude": 81.840676,
+          "crossed": false,
+          "crossedAt": null,
+          "consecutivePings": 0,
+          "status": "pending"
+        },
+        {
+          "villageId": "Diwancheruvu",
+          "villageName": "Diwancheruvu",
+          "sequence": 4,
+          "latitude": 17.045641,
+          "longitude": 81.839246,
+          "crossed": false,
+          "crossedAt": null,
+          "consecutivePings": 0,
+          "status": "pending"
+        }
+      ],
+      "totalDistanceKm": 25.35,
+      "remainingDistanceKm": 24.85,
+      "currentSpeedKmph": 0,
+      "currentLocation": {
+        "latitude": 17.089979,
+        "longitude": 82.06723,
+        "speed": 0,
+        "heading": 0,
+        "timestamp": "2026-06-20T05:42:14.228Z"
+      },
+      "routePath": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            82.06663,
+            17.08975
+          ],
+          [
+            82.0670637704918,
+            17.089915555737704
+          ],
+          [
+            82.0670637704918,
+            17.089915555737704
+          ],
+          [
+            82.06723,
+            17.089979
+          ],
+          [
+            82.06723,
+            17.089979
+          ],
+          [
+            82.06723,
+            17.089979
+          ],
+          [
+            82.0670637704918,
+            17.089915555737704
+          ],
+          [
+            82.0670637704918,
+            17.089915555737704
+          ],
+          [
+            82.067253,
+            17.090086
+          ],
+          [
+            82.0670637704918,
+            17.089915555737704
+          ],
+          [
+            82.06723,
+            17.089979
+          ],
+          [
+            82.0670637704918,
+            17.089915555737704
+          ],
+          [
+            82.06723,
+            17.089979
+          ],
+          [
+            82.066638,
+            17.08926
+          ],
+          [
+            82.06723,
+            17.089979
+          ],
+          [
+            82.06723,
+            17.089979
+          ]
+        ]
+      },
+      "lastUpdatedAt": "2026-06-20T05:42:14.228Z",
+      "summary": {
+        "averageSpeedKmph": 0,
+        "maxSpeedKmph": 0,
+        "villagesCrossed": 1,
+        "durationMinutes": 20,
+        "totalBoarded": 0,
+        "totalDropped": 0,
+        "peakOccupancy": 0,
+        "averageOccupancy": 0
+      },
+      "isDemo": false,
+      "createdAt": "2026-06-20T05:22:38.310Z",
+      "updatedAt": "2026-06-20T05:42:34.204Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a362853f42912e07d33579c",
+      "tripId": "TRIP-d20f5b30-5f08-4f72-886e-e5da48273550",
+      "busId": "BUS003",
+      "driverId": "DRV003",
+      "routeId": "ROUTE-C",
+      "startTime": "2026-06-20T05:42:43.912Z",
+      "endTime": "2026-06-20T05:43:31.473Z",
+      "status": "completed",
+      "direction": "from_college",
+      "tripType": "Trip 2 - College → Home",
+      "routeProgress": [
+        {
+          "villageId": "Aditya University",
+          "villageName": "Aditya University",
+          "sequence": 1,
+          "latitude": 17.0912,
+          "longitude": 82.0665,
+          "crossed": true,
+          "crossedAt": "2026-06-20T05:43:14.422Z",
+          "consecutivePings": 2,
+          "status": "crossed"
+        },
+        {
+          "villageId": "Rameswarampeta",
+          "villageName": "Rameswarampeta",
+          "sequence": 2,
+          "latitude": 17.083747,
+          "longitude": 82.049924,
+          "crossed": false,
+          "crossedAt": null,
+          "consecutivePings": 0,
+          "status": "current"
+        },
+        {
+          "villageId": "Venkatapuram",
+          "villageName": "Venkatapuram",
+          "sequence": 3,
+          "latitude": 17.047838,
+          "longitude": 81.840676,
+          "crossed": false,
+          "crossedAt": null,
+          "consecutivePings": 0,
+          "status": "pending"
+        },
+        {
+          "villageId": "Diwancheruvu",
+          "villageName": "Diwancheruvu",
+          "sequence": 4,
+          "latitude": 17.045641,
+          "longitude": 81.839246,
+          "crossed": false,
+          "crossedAt": null,
+          "consecutivePings": 0,
+          "status": "pending"
+        }
+      ],
+      "totalDistanceKm": 25.35,
+      "remainingDistanceKm": 24.85,
+      "currentSpeedKmph": 0,
+      "currentLocation": {
+        "latitude": 17.089979,
+        "longitude": 82.06723,
+        "speed": 0,
+        "heading": 0,
+        "timestamp": "2026-06-20T05:43:14.422Z"
+      },
+      "routePath": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            82.06819,
+            17.089674
+          ],
+          [
+            82.06723,
+            17.089979
+          ],
+          [
+            82.0670637704918,
+            17.089915555737704
+          ]
+        ]
+      },
+      "lastUpdatedAt": "2026-06-20T05:43:14.422Z",
+      "summary": {
+        "averageSpeedKmph": 0,
+        "maxSpeedKmph": 0,
+        "villagesCrossed": 0,
+        "durationMinutes": 1,
+        "totalBoarded": 0,
+        "totalDropped": 0,
+        "peakOccupancy": 0,
+        "averageOccupancy": 0
+      },
+      "isDemo": false,
+      "createdAt": "2026-06-20T05:42:43.917Z",
+      "updatedAt": "2026-06-20T05:43:46.618Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a362890f42912e07d3357b4",
+      "tripId": "TRIP-90404548-011b-4160-b596-235f99b2634f",
+      "busId": "BUS003",
+      "driverId": "DRV003",
+      "routeId": "ROUTE-C",
+      "startTime": "2026-06-20T05:43:44.316Z",
+      "endTime": "2026-06-22T10:44:42.197Z",
+      "status": "completed",
+      "direction": "to_college",
+      "tripType": "Trip 1 - Home → College",
+      "routeProgress": [
+        {
+          "villageId": "Diwancheruvu",
+          "villageName": "Diwancheruvu",
+          "sequence": 1,
+          "latitude": 17.045641,
+          "longitude": 81.839246,
+          "crossed": false,
+          "crossedAt": null,
+          "consecutivePings": 0,
+          "status": "current"
+        },
+        {
+          "villageId": "Venkatapuram",
+          "villageName": "Venkatapuram",
+          "sequence": 2,
+          "latitude": 17.047838,
+          "longitude": 81.840676,
+          "crossed": false,
+          "crossedAt": null,
+          "consecutivePings": 0,
+          "status": "pending"
+        },
+        {
+          "villageId": "Rameswarampeta",
+          "villageName": "Rameswarampeta",
+          "sequence": 3,
+          "latitude": 17.083747,
+          "longitude": 82.049924,
+          "crossed": false,
+          "crossedAt": null,
+          "consecutivePings": 0,
+          "status": "pending"
+        },
+        {
+          "villageId": "Aditya University",
+          "villageName": "Aditya University",
+          "sequence": 4,
+          "latitude": 17.0912,
+          "longitude": 82.0665,
+          "crossed": false,
+          "crossedAt": null,
+          "consecutivePings": 0,
+          "status": "pending"
+        }
+      ],
+      "totalDistanceKm": 47.74,
+      "remainingDistanceKm": 47.74,
+      "currentSpeedKmph": 0,
+      "currentLocation": {
+        "latitude": 16.9164,
+        "longitude": 82.007,
+        "speed": 0,
+        "heading": 0,
+        "timestamp": "2026-06-22T10:08:04.552Z"
+      },
+      "routePath": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            82.06723,
+            17.089979
+          ],
+          [
+            82.06723,
+            17.089979
+          ],
+          [
+            82.067261,
+            17.089912
+          ],
+          [
+            82.2417,
+            17.0157
+          ],
+          [
+            82.06723,
+            17.089979
+          ],
+          [
+            82.2417,
+            17.0157
+          ],
+          [
+            82.0670637704918,
+            17.089915555737704
+          ],
+          [
+            82.06723,
+            17.089979
+          ],
+          [
+            82.0670637704918,
+            17.089915555737704
+          ],
+          [
+            82.06723,
+            17.089979
+          ],
+          [
+            82.06723,
+            17.089979
+          ],
+          [
+            82.06723,
+            17.089979
+          ],
+          [
+            82.06699372877874,
+            17.090222476490567
+          ],
+          [
+            82.06663,
+            17.08975
+          ],
+          [
+            82.068182,
+            17.089663
+          ],
+          [
+            82.06723,
+            17.089979
+          ],
+          [
+            82.0670637704918,
+            17.089915555737704
+          ],
+          [
+            82.06707555650578,
+            17.090328769089798
+          ],
+          [
+            82.06723,
+            17.089979
+          ],
+          [
+            82.06723,
+            17.089979
+          ],
+          [
+            82.0670637704918,
+            17.089915555737704
+          ],
+          [
+            82.06723,
+            17.089979
+          ],
+          [
+            82.06663,
+            17.08975
+          ],
+          [
+            82.066806,
+            17.090002
+          ],
+          [
+            82.066835,
+            17.090066
+          ],
+          [
+            82.06723,
+            17.089979
+          ],
+          [
+            82.06723,
+            17.089979
+          ],
+          [
+            82.06699372877874,
+            17.090222476490567
+          ],
+          [
+            82.068147,
+            17.089725
+          ],
+          [
+            82.06699372877874,
+            17.090222476490567
+          ],
+          [
+            82.0670637704918,
+            17.089915555737704
+          ],
+          [
+            82.0670637704918,
+            17.089915555737704
+          ],
+          [
+            82.0670637704918,
+            17.089915555737704
+          ],
+          [
+            82.066835,
+            17.090066
+          ],
+          [
+            82.06723,
+            17.089979
+          ],
+          [
+            82.06723,
+            17.089979
+          ],
+          [
+            82.0670637704918,
+            17.089915555737704
+          ],
+          [
+            82.06723,
+            17.089979
+          ],
+          [
+            82.06699372877874,
+            17.090222476490567
+          ],
+          [
+            82.06723,
+            17.089979
+          ],
+          [
+            121.544983,
+            25.042259
+          ],
+          [
+            82.068162,
+            17.089666
+          ],
+          [
+            82.0670637704918,
+            17.089915555737704
+          ],
+          [
+            82.0670637704918,
+            17.089915555737704
+          ],
+          [
+            82.06723,
+            17.089979
+          ],
+          [
+            82.06723,
+            17.089979
+          ],
+          [
+            82.06723,
+            17.089979
+          ],
+          [
+            82.06699372877874,
+            17.090222476490567
+          ],
+          [
+            82.067027,
+            17.090269
+          ],
+          [
+            82.0670637704918,
+            17.089915555737704
+          ],
+          [
+            82.06723,
+            17.089979
+          ],
+          [
+            82.067268,
+            17.090067
+          ],
+          [
+            82.0670637704918,
+            17.089915555737704
+          ],
+          [
+            82.06699372877874,
+            17.090222476490567
+          ],
+          [
+            82.066868,
+            17.089817
+          ],
+          [
+            82.06699372877874,
+            17.090222476490567
+          ],
+          [
+            121.544983,
+            25.042259
+          ],
+          [
+            82.06699372877874,
+            17.090222476490567
+          ],
+          [
+            82.0670637704918,
+            17.089915555737704
+          ],
+          [
+            82.0670637704918,
+            17.089915555737704
+          ],
+          [
+            82.06723,
+            17.089979
+          ],
+          [
+            82.0670637704918,
+            17.089915555737704
+          ],
+          [
+            82.06723,
+            17.089979
+          ],
+          [
+            82.067146,
+            17.090117
+          ],
+          [
+            82.06723,
+            17.089979
+          ],
+          [
+            82.0670637704918,
+            17.089915555737704
+          ],
+          [
+            82.06663,
+            17.08975
+          ],
+          [
+            82.067192,
+            17.090008
+          ],
+          [
+            82.06723,
+            17.089979
+          ],
+          [
+            82.06663,
+            17.08975
+          ],
+          [
+            82.066862,
+            17.090064
+          ],
+          [
+            82.06723,
+            17.089979
+          ],
+          [
+            82.06707555650578,
+            17.090328769089798
+          ],
+          [
+            82.0670637704918,
+            17.089915555737704
+          ],
+          [
+            82.0670637704918,
+            17.089915555737704
+          ],
+          [
+            82.06723,
+            17.089979
+          ],
+          [
+            82.0670637704918,
+            17.089915555737704
+          ],
+          [
+            82.068191,
+            17.089663
+          ],
+          [
+            82.06723,
+            17.089979
+          ],
+          [
+            82.06723,
+            17.089979
+          ],
+          [
+            82.06723,
+            17.089979
+          ],
+          [
+            82.06688,
+            17.090015
+          ],
+          [
+            82.066856,
+            17.090826
+          ],
+          [
+            82.0670637704918,
+            17.089915555737704
+          ],
+          [
+            82.068155,
+            17.089643
+          ],
+          [
+            82.06723,
+            17.089979
+          ],
+          [
+            82.06723,
+            17.089979
+          ],
+          [
+            82.06741663449678,
+            17.089821314430424
+          ],
+          [
+            82.06723,
+            17.089979
+          ],
+          [
+            82.06707555650578,
+            17.090328769089798
+          ],
+          [
+            82.06759360293218,
+            17.0898373579719
+          ],
+          [
+            82.06741663449678,
+            17.089821314430424
+          ],
+          [
+            82.06759360293218,
+            17.0898373579719
+          ],
+          [
+            82.06727528793293,
+            17.090074614671163
+          ],
+          [
+            82.06759360293218,
+            17.0898373579719
+          ],
+          [
+            82.06723,
+            17.089979
+          ],
+          [
+            82.06741663449678,
+            17.089821314430424
+          ],
+          [
+            82.06759360293218,
+            17.0898373579719
+          ],
+          [
+            82.06741663449678,
+            17.089821314430424
+          ],
+          [
+            82.06759360293218,
+            17.0898373579719
+          ],
+          [
+            82.2417,
+            17.0157
+          ],
+          [
+            82.06741663449678,
+            17.089821314430424
+          ],
+          [
+            82.06759360293218,
+            17.0898373579719
+          ],
+          [
+            82.06663,
+            17.08975
+          ],
+          [
+            82.06741663449678,
+            17.089821314430424
+          ],
+          [
+            82.06759360293218,
+            17.0898373579719
+          ],
+          [
+            82.06737803026371,
+            17.090126299610894
+          ],
+          [
+            82.067215,
+            17.090065
+          ],
+          [
+            82.068132,
+            17.089598
+          ],
+          [
+            82.0670637704918,
+            17.089915555737704
+          ],
+          [
+            82.050218,
+            17.085684
+          ],
+          [
+            82.050219,
+            17.085685
+          ],
+          [
+            82.050219,
+            17.085685
+          ],
+          [
+            82.049988,
+            17.084938
+          ],
+          [
+            82.049782,
+            17.084841
+          ],
+          [
+            82.049782,
+            17.084841
+          ],
+          [
+            82.049988,
+            17.084938
+          ],
+          [
+            82.050133,
+            17.084976
+          ],
+          [
+            82.049988,
+            17.084938
+          ],
+          [
+            82.050072,
+            17.084946
+          ],
+          [
+            82.050195,
+            17.085653
+          ],
+          [
+            82.050219,
+            17.085685
+          ],
+          [
+            82.049782,
+            17.084841
+          ],
+          [
+            82.050026,
+            17.084919
+          ],
+          [
+            82.050133,
+            17.084976
+          ],
+          [
+            82.050026,
+            17.084919
+          ],
+          [
+            82.050026,
+            17.084919
+          ],
+          [
+            82.049782,
+            17.084841
+          ],
+          [
+            82.050133,
+            17.084976
+          ],
+          [
+            82.050219,
+            17.085685
+          ],
+          [
+            82.050219,
+            17.085685
+          ],
+          [
+            82.050218,
+            17.085684
+          ],
+          [
+            82.050219,
+            17.085685
+          ],
+          [
+            82.050219,
+            17.085685
+          ],
+          [
+            82.050219,
+            17.085685
+          ],
+          [
+            82.05024,
+            17.085032
+          ],
+          [
+            82.049782,
+            17.084841
+          ],
+          [
+            82.050072,
+            17.084946
+          ],
+          [
+            82.05024,
+            17.085032
+          ],
+          [
+            82.050072,
+            17.084946
+          ],
+          [
+            82.049782,
+            17.084841
+          ],
+          [
+            82.049988,
+            17.084938
+          ],
+          [
+            82.050133,
+            17.084976
+          ],
+          [
+            82.049782,
+            17.084841
+          ],
+          [
+            82.050026,
+            17.084919
+          ],
+          [
+            82.050218,
+            17.085686
+          ],
+          [
+            82.050218,
+            17.085684
+          ],
+          [
+            82.049988,
+            17.084938
+          ],
+          [
+            82.050219,
+            17.085685
+          ],
+          [
+            82.049782,
+            17.084841
+          ],
+          [
+            82.050133,
+            17.084976
+          ],
+          [
+            82.049988,
+            17.084938
+          ],
+          [
+            82.050218,
+            17.085684
+          ],
+          [
+            82.049782,
+            17.084841
+          ],
+          [
+            82.050133,
+            17.084976
+          ],
+          [
+            82.050219,
+            17.085685
+          ],
+          [
+            82.050219,
+            17.085685
+          ],
+          [
+            82.050133,
+            17.084976
+          ],
+          [
+            82.050072,
+            17.084946
+          ],
+          [
+            82.050026,
+            17.084919
+          ],
+          [
+            82.050026,
+            17.084919
+          ],
+          [
+            82.050026,
+            17.084919
+          ],
+          [
+            82.049782,
+            17.084841
+          ],
+          [
+            82.049782,
+            17.084841
+          ],
+          [
+            82.050026,
+            17.084919
+          ],
+          [
+            82.049782,
+            17.084841
+          ],
+          [
+            82.050026,
+            17.084919
+          ],
+          [
+            82.050026,
+            17.084919
+          ],
+          [
+            82.050133,
+            17.084976
+          ],
+          [
+            82.049782,
+            17.084841
+          ],
+          [
+            82.049782,
+            17.084841
+          ],
+          [
+            82.050026,
+            17.084919
+          ],
+          [
+            82.049782,
+            17.084841
+          ],
+          [
+            82.049988,
+            17.084938
+          ],
+          [
+            82.049782,
+            17.084841
+          ],
+          [
+            82.049782,
+            17.084841
+          ],
+          [
+            82.049782,
+            17.084841
+          ],
+          [
+            82.049988,
+            17.084938
+          ],
+          [
+            82.049782,
+            17.084841
+          ],
+          [
+            82.050026,
+            17.084919
+          ],
+          [
+            82.049782,
+            17.084841
+          ],
+          [
+            82.050026,
+            17.084919
+          ],
+          [
+            82.050647,
+            17.085194
+          ],
+          [
+            82.049782,
+            17.084841
+          ],
+          [
+            82.049782,
+            17.084841
+          ],
+          [
+            82.049782,
+            17.084841
+          ],
+          [
+            82.05024,
+            17.085032
+          ],
+          [
+            82.05024,
+            17.085032
+          ],
+          [
+            82.049782,
+            17.084841
+          ],
+          [
+            82.049782,
+            17.084841
+          ],
+          [
+            82.049782,
+            17.084841
+          ],
+          [
+            82.049782,
+            17.084841
+          ],
+          [
+            82.049782,
+            17.084841
+          ],
+          [
+            82.050219,
+            17.085686
+          ],
+          [
+            82.049782,
+            17.084841
+          ],
+          [
+            82.049782,
+            17.084841
+          ],
+          [
+            82.049782,
+            17.084841
+          ],
+          [
+            82.050026,
+            17.084919
+          ],
+          [
+            82.050026,
+            17.084919
+          ],
+          [
+            82.050647,
+            17.085194
+          ],
+          [
+            82.050647,
+            17.085194
+          ],
+          [
+            82.049782,
+            17.084841
+          ],
+          [
+            82.050026,
+            17.084919
+          ],
+          [
+            82.050026,
+            17.084919
+          ],
+          [
+            82.049782,
+            17.084841
+          ],
+          [
+            82.050026,
+            17.084919
+          ],
+          [
+            82.049782,
+            17.084841
+          ],
+          [
+            82.049782,
+            17.084841
+          ],
+          [
+            82.1354,
+            17.0805
+          ],
+          [
+            82.1354,
+            17.0805
+          ],
+          [
+            82.05022,
+            17.085685
+          ],
+          [
+            82.05022,
+            17.085685
+          ],
+          [
+            82.050072,
+            17.084946
+          ],
+          [
+            82.050072,
+            17.084946
+          ],
+          [
+            82.050647,
+            17.085194
+          ],
+          [
+            82.050647,
+            17.085194
+          ],
+          [
+            82.050647,
+            17.085194
+          ],
+          [
+            82.050647,
+            17.085194
+          ],
+          [
+            82.050647,
+            17.085194
+          ],
+          [
+            82.050647,
+            17.085194
+          ],
+          [
+            82.050647,
+            17.085194
+          ],
+          [
+            82.049782,
+            17.084841
+          ],
+          [
+            82.049988,
+            17.084938
+          ],
+          [
+            82.049988,
+            17.084938
+          ],
+          [
+            82.050026,
+            17.084919
+          ],
+          [
+            82.050026,
+            17.084919
+          ],
+          [
+            82.049782,
+            17.084841
+          ],
+          [
+            82.049782,
+            17.084841
+          ],
+          [
+            82.049782,
+            17.084841
+          ],
+          [
+            82.049988,
+            17.084938
+          ],
+          [
+            82.049988,
+            17.084938
+          ],
+          [
+            82.049782,
+            17.084841
+          ],
+          [
+            82.049988,
+            17.084938
+          ],
+          [
+            82.049988,
+            17.084938
+          ],
+          [
+            82.049782,
+            17.084841
+          ],
+          [
+            82.049835,
+            17.084877
+          ],
+          [
+            82.050219,
+            17.085684
+          ],
+          [
+            82.050072,
+            17.084946
+          ],
+          [
+            82.049782,
+            17.084841
+          ],
+          [
+            82.049782,
+            17.084841
+          ],
+          [
+            82.050219,
+            17.085684
+          ],
+          [
+            82.049782,
+            17.084841
+          ],
+          [
+            82.049782,
+            17.084841
+          ],
+          [
+            82.049782,
+            17.084841
+          ],
+          [
+            82.049782,
+            17.084841
+          ],
+          [
+            82.049782,
+            17.084841
+          ],
+          [
+            82.049782,
+            17.084841
+          ],
+          [
+            82.049782,
+            17.084841
+          ],
+          [
+            82.050072,
+            17.084946
+          ],
+          [
+            82.050219,
+            17.085684
+          ],
+          [
+            82.049782,
+            17.084841
+          ],
+          [
+            82.049782,
+            17.084841
+          ],
+          [
+            82.049782,
+            17.084841
+          ],
+          [
+            82.067337,
+            17.089939
+          ],
+          [
+            82.067337,
+            17.089939
+          ],
+          [
+            82.067337,
+            17.089939
+          ],
+          [
+            82.067337,
+            17.089939
+          ],
+          [
+            82.067337,
+            17.089939
+          ],
+          [
+            82.049988,
+            17.084938
+          ],
+          [
+            82.050133,
+            17.084976
+          ],
+          [
+            82.0512925,
+            17.0856
+          ],
+          [
+            82.067337,
+            17.089939
+          ],
+          [
+            82.067337,
+            17.089939
+          ],
+          [
+            82.067337,
+            17.089939
+          ],
+          [
+            82.067337,
+            17.089939
+          ],
+          [
+            82.067337,
+            17.089939
+          ],
+          [
+            82.007,
+            16.9164
+          ],
+          [
+            82.007,
+            16.9164
+          ],
+          [
+            82.068161,
+            17.0893
+          ],
+          [
+            82.068161,
+            17.0893
+          ],
+          [
+            82.068144,
+            17.08937
+          ],
+          [
+            82.068659,
+            17.088044
+          ],
+          [
+            82.068176,
+            17.087826
+          ],
+          [
+            82.007,
+            16.9164
+          ],
+          [
+            82.007,
+            16.9164
+          ],
+          [
+            82.068268,
+            17.088245
+          ],
+          [
+            82.007,
+            16.9164
+          ]
+        ]
+      },
+      "lastUpdatedAt": "2026-06-22T10:08:04.552Z",
+      "summary": {
+        "averageSpeedKmph": 0,
+        "maxSpeedKmph": 0,
+        "villagesCrossed": 0,
+        "durationMinutes": 3181,
+        "totalBoarded": 0,
+        "totalDropped": 0,
+        "peakOccupancy": 0,
+        "averageOccupancy": 0
+      },
+      "isDemo": false,
+      "createdAt": "2026-06-20T05:43:44.318Z",
+      "updatedAt": "2026-06-22T10:44:42.221Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a3783a238f6926ab1bce5d1",
+      "tripId": "TRIP-f90d4722-b2d1-44a8-a659-65a939668765",
+      "busId": "BUS002",
+      "driverId": "DRV004",
+      "routeId": "ROUTE-B",
+      "startTime": "2026-06-21T06:24:34.602Z",
+      "endTime": "2026-06-21T06:25:57.790Z",
+      "status": "completed",
+      "direction": "from_college",
+      "tripType": "Trip 2 - College → Home",
+      "routeProgress": [
+        {
+          "villageId": "Aditya University",
+          "villageName": "Aditya University",
+          "sequence": 1,
+          "latitude": 17.0912,
+          "longitude": 82.0665,
+          "crossed": false,
+          "crossedAt": null,
+          "consecutivePings": 0,
+          "status": "current"
+        },
+        {
+          "villageId": "kakinada",
+          "villageName": "kakinada",
+          "sequence": 2,
+          "latitude": 16.969471566831924,
+          "longitude": 81.2333499980655,
+          "crossed": false,
+          "crossedAt": null,
+          "consecutivePings": 0,
+          "status": "pending"
+        }
+      ],
+      "totalDistanceKm": 91.5,
+      "remainingDistanceKm": 91.5,
+      "currentSpeedKmph": 0,
+      "currentLocation": {
+        "latitude": 17.084938,
+        "longitude": 82.049988,
+        "speed": 0,
+        "heading": 0,
+        "timestamp": "2026-06-21T06:24:41.741Z"
+      },
+      "routePath": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            82.049988,
+            17.084938
+          ]
+        ]
+      },
+      "lastUpdatedAt": "2026-06-21T06:24:41.741Z",
+      "summary": {
+        "averageSpeedKmph": 0,
+        "maxSpeedKmph": 0,
+        "villagesCrossed": 0,
+        "durationMinutes": 1,
+        "totalBoarded": 0,
+        "totalDropped": 0,
+        "peakOccupancy": 0,
+        "averageOccupancy": 0
+      },
+      "isDemo": false,
+      "createdAt": "2026-06-21T06:24:34.610Z",
+      "updatedAt": "2026-06-21T06:25:57.793Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a37840238f6926ab1bce5d7",
+      "tripId": "TRIP-32ede9ff-3470-45e2-b128-35ebe6bfedbd",
+      "busId": "BUS002",
+      "driverId": "DRV004",
+      "routeId": "ROUTE-B",
+      "startTime": "2026-06-21T06:26:10.416Z",
+      "endTime": null,
+      "status": "active",
+      "direction": "to_college",
+      "tripType": "Trip 1 - Home → College",
+      "routeProgress": [
+        {
+          "villageId": "kakinada",
+          "villageName": "kakinada",
+          "sequence": 1,
+          "latitude": 16.969471566831924,
+          "longitude": 81.2333499980655,
+          "crossed": false,
+          "crossedAt": null,
+          "consecutivePings": 0,
+          "status": "current"
+        },
+        {
+          "villageId": "Aditya University",
+          "villageName": "Aditya University",
+          "sequence": 2,
+          "latitude": 17.0912,
+          "longitude": 82.0665,
+          "crossed": false,
+          "crossedAt": null,
+          "consecutivePings": 0,
+          "status": "pending"
+        }
+      ],
+      "totalDistanceKm": 177.39,
+      "remainingDistanceKm": 177.39,
+      "currentSpeedKmph": 0,
+      "currentLocation": {
+        "latitude": 17.084976,
+        "longitude": 82.050133,
+        "speed": 0,
+        "heading": 0,
+        "timestamp": "2026-06-21T07:02:28.944Z"
+      },
+      "routePath": {
+        "type": "LineString",
+        "coordinates": []
+      },
+      "lastUpdatedAt": "2026-06-21T07:02:28.944Z",
+      "summary": {
+        "totalBoarded": 0,
+        "totalDropped": 0,
+        "peakOccupancy": 0,
+        "averageOccupancy": 0
+      },
+      "isDemo": false,
+      "createdAt": "2026-06-21T06:26:10.423Z",
+      "updatedAt": "2026-06-22T15:47:34.213Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a37bcd1410eb901c018ab1a",
+      "tripId": "TRIP-fb87cce5-2399-4c19-b2df-0444527202f0",
+      "busId": "BUS00445",
+      "driverId": "DRV-TEST-99",
+      "routeId": "ROUTE-A",
+      "startTime": "2026-06-21T10:28:33.245Z",
+      "endTime": null,
+      "status": "active",
+      "direction": "to_college",
+      "tripType": "Trip 1 - Home → College",
+      "routeProgress": [
+        {
+          "villageId": "ROUTE-A-VIL-001",
+          "villageName": "Samalkot",
+          "sequence": 1,
+          "latitude": 17.0504,
+          "longitude": 82.1659,
+          "crossed": false,
+          "crossedAt": null,
+          "consecutivePings": 0,
+          "status": "current"
+        },
+        {
+          "villageId": "ROUTE-A-VIL-002",
+          "villageName": "Vetlapalem",
+          "sequence": 2,
+          "latitude": 17.0259,
+          "longitude": 82.1369,
+          "crossed": false,
+          "crossedAt": null,
+          "consecutivePings": 0,
+          "status": "pending"
+        },
+        {
+          "villageId": "ROUTE-A-VIL-003",
+          "villageName": "Peddapuram",
+          "sequence": 3,
+          "latitude": 17.0757,
+          "longitude": 82.1433,
+          "crossed": false,
+          "crossedAt": null,
+          "consecutivePings": 0,
+          "status": "pending"
+        },
+        {
+          "villageId": "ROUTE-A-VIL-004",
+          "villageName": "Yerrampalem",
+          "sequence": 4,
+          "latitude": 17.0864,
+          "longitude": 82.0945,
+          "crossed": false,
+          "crossedAt": null,
+          "consecutivePings": 0,
+          "status": "pending"
+        },
+        {
+          "villageId": "ROUTE-A-VIL-005",
+          "villageName": "Aditya University",
+          "sequence": 5,
+          "latitude": 17.0912,
+          "longitude": 82.0665,
+          "crossed": false,
+          "crossedAt": null,
+          "consecutivePings": 0,
+          "status": "pending"
+        }
+      ],
+      "totalDistanceKm": 0,
+      "remainingDistanceKm": 0,
+      "currentSpeedKmph": 0,
+      "currentLocation": null,
+      "routePath": {
+        "type": "LineString",
+        "coordinates": []
+      },
+      "lastUpdatedAt": "2026-06-21T10:28:33.245Z",
+      "summary": {
+        "averageSpeedKmph": 0,
+        "maxSpeedKmph": 0,
+        "villagesCrossed": 0,
+        "durationMinutes": 0,
+        "totalBoarded": 0,
+        "totalDropped": 0,
+        "peakOccupancy": 2,
+        "averageOccupancy": 0
+      },
+      "isDemo": false,
+      "createdAt": "2026-06-21T10:28:33.252Z",
+      "updatedAt": "2026-06-21T10:28:53.443Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a37bd50f48bc01b93f89596",
+      "tripId": "TRIP-58af06ac-297b-4267-a77e-e05d56d18952",
+      "busId": "BUS33791",
+      "driverId": "DRV-TEST-99",
+      "routeId": "ROUTE-A",
+      "startTime": "2026-06-21T10:30:40.937Z",
+      "endTime": null,
+      "status": "active",
+      "direction": "to_college",
+      "tripType": "Trip 1 - Home → College",
+      "routeProgress": [
+        {
+          "villageId": "ROUTE-A-VIL-001",
+          "villageName": "Samalkot",
+          "sequence": 1,
+          "latitude": 17.0504,
+          "longitude": 82.1659,
+          "crossed": false,
+          "crossedAt": null,
+          "consecutivePings": 0,
+          "status": "current"
+        },
+        {
+          "villageId": "ROUTE-A-VIL-002",
+          "villageName": "Vetlapalem",
+          "sequence": 2,
+          "latitude": 17.0259,
+          "longitude": 82.1369,
+          "crossed": false,
+          "crossedAt": null,
+          "consecutivePings": 0,
+          "status": "pending"
+        },
+        {
+          "villageId": "ROUTE-A-VIL-003",
+          "villageName": "Peddapuram",
+          "sequence": 3,
+          "latitude": 17.0757,
+          "longitude": 82.1433,
+          "crossed": false,
+          "crossedAt": null,
+          "consecutivePings": 0,
+          "status": "pending"
+        },
+        {
+          "villageId": "ROUTE-A-VIL-004",
+          "villageName": "Yerrampalem",
+          "sequence": 4,
+          "latitude": 17.0864,
+          "longitude": 82.0945,
+          "crossed": false,
+          "crossedAt": null,
+          "consecutivePings": 0,
+          "status": "pending"
+        },
+        {
+          "villageId": "ROUTE-A-VIL-005",
+          "villageName": "Aditya University",
+          "sequence": 5,
+          "latitude": 17.0912,
+          "longitude": 82.0665,
+          "crossed": false,
+          "crossedAt": null,
+          "consecutivePings": 0,
+          "status": "pending"
+        }
+      ],
+      "totalDistanceKm": 0,
+      "remainingDistanceKm": 0,
+      "currentSpeedKmph": 0,
+      "currentLocation": null,
+      "routePath": {
+        "type": "LineString",
+        "coordinates": []
+      },
+      "lastUpdatedAt": "2026-06-21T10:30:40.937Z",
+      "summary": {
+        "averageSpeedKmph": 0,
+        "maxSpeedKmph": 0,
+        "villagesCrossed": 0,
+        "durationMinutes": 0,
+        "totalBoarded": 0,
+        "totalDropped": 0,
+        "peakOccupancy": 2,
+        "averageOccupancy": 0
+      },
+      "isDemo": false,
+      "createdAt": "2026-06-21T10:30:40.942Z",
+      "updatedAt": "2026-06-21T10:30:53.053Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a37bdb4aae177f744bbf00a",
+      "tripId": "TRIP-bfc2a63b-00c0-41d0-8138-0d73b7905e87",
+      "busId": "BUS33286",
+      "driverId": "DRV-TEST-99",
+      "routeId": "ROUTE-A",
+      "startTime": "2026-06-21T10:32:20.516Z",
+      "endTime": null,
+      "status": "active",
+      "direction": "to_college",
+      "tripType": "Trip 1 - Home → College",
+      "routeProgress": [
+        {
+          "villageId": "ROUTE-A-VIL-001",
+          "villageName": "Samalkot",
+          "sequence": 1,
+          "latitude": 17.0504,
+          "longitude": 82.1659,
+          "crossed": false,
+          "crossedAt": null,
+          "consecutivePings": 0,
+          "status": "current"
+        },
+        {
+          "villageId": "ROUTE-A-VIL-002",
+          "villageName": "Vetlapalem",
+          "sequence": 2,
+          "latitude": 17.0259,
+          "longitude": 82.1369,
+          "crossed": false,
+          "crossedAt": null,
+          "consecutivePings": 0,
+          "status": "pending"
+        },
+        {
+          "villageId": "ROUTE-A-VIL-003",
+          "villageName": "Peddapuram",
+          "sequence": 3,
+          "latitude": 17.0757,
+          "longitude": 82.1433,
+          "crossed": false,
+          "crossedAt": null,
+          "consecutivePings": 0,
+          "status": "pending"
+        },
+        {
+          "villageId": "ROUTE-A-VIL-004",
+          "villageName": "Yerrampalem",
+          "sequence": 4,
+          "latitude": 17.0864,
+          "longitude": 82.0945,
+          "crossed": false,
+          "crossedAt": null,
+          "consecutivePings": 0,
+          "status": "pending"
+        },
+        {
+          "villageId": "ROUTE-A-VIL-005",
+          "villageName": "Aditya University",
+          "sequence": 5,
+          "latitude": 17.0912,
+          "longitude": 82.0665,
+          "crossed": false,
+          "crossedAt": null,
+          "consecutivePings": 0,
+          "status": "pending"
+        }
+      ],
+      "totalDistanceKm": 0,
+      "remainingDistanceKm": 0,
+      "currentSpeedKmph": 0,
+      "currentLocation": null,
+      "routePath": {
+        "type": "LineString",
+        "coordinates": []
+      },
+      "lastUpdatedAt": "2026-06-21T10:32:20.516Z",
+      "summary": {
+        "averageSpeedKmph": 0,
+        "maxSpeedKmph": 0,
+        "villagesCrossed": 0,
+        "durationMinutes": 0,
+        "totalBoarded": 0,
+        "totalDropped": 0,
+        "peakOccupancy": 2,
+        "averageOccupancy": 0
+      },
+      "isDemo": false,
+      "createdAt": "2026-06-21T10:32:20.522Z",
+      "updatedAt": "2026-06-21T10:32:36.135Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a37be0ae8737695a16c3e0e",
+      "tripId": "TRIP-89e68981-9c56-4218-ac9d-715e2a2aab51",
+      "busId": "BUS23268",
+      "driverId": "DRV-TEST-99",
+      "routeId": "ROUTE-A",
+      "startTime": "2026-06-21T10:33:46.547Z",
+      "endTime": null,
+      "status": "active",
+      "direction": "to_college",
+      "tripType": "Trip 1 - Home → College",
+      "routeProgress": [
+        {
+          "villageId": "ROUTE-A-VIL-001",
+          "villageName": "Samalkot",
+          "sequence": 1,
+          "latitude": 17.0504,
+          "longitude": 82.1659,
+          "crossed": false,
+          "crossedAt": null,
+          "consecutivePings": 0,
+          "status": "current"
+        },
+        {
+          "villageId": "ROUTE-A-VIL-002",
+          "villageName": "Vetlapalem",
+          "sequence": 2,
+          "latitude": 17.0259,
+          "longitude": 82.1369,
+          "crossed": false,
+          "crossedAt": null,
+          "consecutivePings": 0,
+          "status": "pending"
+        },
+        {
+          "villageId": "ROUTE-A-VIL-003",
+          "villageName": "Peddapuram",
+          "sequence": 3,
+          "latitude": 17.0757,
+          "longitude": 82.1433,
+          "crossed": false,
+          "crossedAt": null,
+          "consecutivePings": 0,
+          "status": "pending"
+        },
+        {
+          "villageId": "ROUTE-A-VIL-004",
+          "villageName": "Yerrampalem",
+          "sequence": 4,
+          "latitude": 17.0864,
+          "longitude": 82.0945,
+          "crossed": false,
+          "crossedAt": null,
+          "consecutivePings": 0,
+          "status": "pending"
+        },
+        {
+          "villageId": "ROUTE-A-VIL-005",
+          "villageName": "Aditya University",
+          "sequence": 5,
+          "latitude": 17.0912,
+          "longitude": 82.0665,
+          "crossed": false,
+          "crossedAt": null,
+          "consecutivePings": 0,
+          "status": "pending"
+        }
+      ],
+      "totalDistanceKm": 0,
+      "remainingDistanceKm": 0,
+      "currentSpeedKmph": 0,
+      "currentLocation": null,
+      "routePath": {
+        "type": "LineString",
+        "coordinates": []
+      },
+      "lastUpdatedAt": "2026-06-21T10:33:46.547Z",
+      "summary": {
+        "averageSpeedKmph": 0,
+        "maxSpeedKmph": 0,
+        "villagesCrossed": 0,
+        "durationMinutes": 0,
+        "totalBoarded": 0,
+        "totalDropped": 0,
+        "peakOccupancy": 2,
+        "averageOccupancy": 0
+      },
+      "isDemo": false,
+      "createdAt": "2026-06-21T10:33:46.552Z",
+      "updatedAt": "2026-06-21T10:34:01.228Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a37be6f660dfa004683b3a7",
+      "tripId": "TRIP-08767c16-4374-41ad-8d09-ed4630170368",
+      "busId": "BUS19359",
+      "driverId": "DRV-TEST-99",
+      "routeId": "ROUTE-A",
+      "startTime": "2026-06-21T10:35:27.554Z",
+      "endTime": null,
+      "status": "active",
+      "direction": "to_college",
+      "tripType": "Trip 1 - Home → College",
+      "routeProgress": [
+        {
+          "villageId": "ROUTE-A-VIL-001",
+          "villageName": "Samalkot",
+          "sequence": 1,
+          "latitude": 17.0504,
+          "longitude": 82.1659,
+          "crossed": false,
+          "crossedAt": null,
+          "consecutivePings": 0,
+          "status": "current"
+        },
+        {
+          "villageId": "ROUTE-A-VIL-002",
+          "villageName": "Vetlapalem",
+          "sequence": 2,
+          "latitude": 17.0259,
+          "longitude": 82.1369,
+          "crossed": false,
+          "crossedAt": null,
+          "consecutivePings": 0,
+          "status": "pending"
+        },
+        {
+          "villageId": "ROUTE-A-VIL-003",
+          "villageName": "Peddapuram",
+          "sequence": 3,
+          "latitude": 17.0757,
+          "longitude": 82.1433,
+          "crossed": false,
+          "crossedAt": null,
+          "consecutivePings": 0,
+          "status": "pending"
+        },
+        {
+          "villageId": "ROUTE-A-VIL-004",
+          "villageName": "Yerrampalem",
+          "sequence": 4,
+          "latitude": 17.0864,
+          "longitude": 82.0945,
+          "crossed": false,
+          "crossedAt": null,
+          "consecutivePings": 0,
+          "status": "pending"
+        },
+        {
+          "villageId": "ROUTE-A-VIL-005",
+          "villageName": "Aditya University",
+          "sequence": 5,
+          "latitude": 17.0912,
+          "longitude": 82.0665,
+          "crossed": false,
+          "crossedAt": null,
+          "consecutivePings": 0,
+          "status": "pending"
+        }
+      ],
+      "totalDistanceKm": 0,
+      "remainingDistanceKm": 0,
+      "currentSpeedKmph": 0,
+      "currentLocation": null,
+      "routePath": {
+        "type": "LineString",
+        "coordinates": []
+      },
+      "lastUpdatedAt": "2026-06-21T10:35:27.554Z",
+      "summary": {
+        "averageSpeedKmph": 0,
+        "maxSpeedKmph": 0,
+        "villagesCrossed": 0,
+        "durationMinutes": 0,
+        "totalBoarded": 0,
+        "totalDropped": 0,
+        "peakOccupancy": 2,
+        "averageOccupancy": 0
+      },
+      "isDemo": false,
+      "createdAt": "2026-06-21T10:35:27.562Z",
+      "updatedAt": "2026-06-21T10:35:47.369Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a37bed9aa351a200250f75a",
+      "tripId": "TRIP-ab000515-ce04-436b-8798-33eb9f8e9773",
+      "busId": "BUS07729",
+      "driverId": "DRV-TEST-99",
+      "routeId": "ROUTE-A",
+      "startTime": "2026-06-21T10:37:13.022Z",
+      "endTime": null,
+      "status": "active",
+      "direction": "to_college",
+      "tripType": "Trip 1 - Home → College",
+      "routeProgress": [
+        {
+          "villageId": "ROUTE-A-VIL-001",
+          "villageName": "Samalkot",
+          "sequence": 1,
+          "latitude": 17.0504,
+          "longitude": 82.1659,
+          "crossed": false,
+          "crossedAt": null,
+          "consecutivePings": 0,
+          "status": "current"
+        },
+        {
+          "villageId": "ROUTE-A-VIL-002",
+          "villageName": "Vetlapalem",
+          "sequence": 2,
+          "latitude": 17.0259,
+          "longitude": 82.1369,
+          "crossed": false,
+          "crossedAt": null,
+          "consecutivePings": 0,
+          "status": "pending"
+        },
+        {
+          "villageId": "ROUTE-A-VIL-003",
+          "villageName": "Peddapuram",
+          "sequence": 3,
+          "latitude": 17.0757,
+          "longitude": 82.1433,
+          "crossed": false,
+          "crossedAt": null,
+          "consecutivePings": 0,
+          "status": "pending"
+        },
+        {
+          "villageId": "ROUTE-A-VIL-004",
+          "villageName": "Yerrampalem",
+          "sequence": 4,
+          "latitude": 17.0864,
+          "longitude": 82.0945,
+          "crossed": false,
+          "crossedAt": null,
+          "consecutivePings": 0,
+          "status": "pending"
+        },
+        {
+          "villageId": "ROUTE-A-VIL-005",
+          "villageName": "Aditya University",
+          "sequence": 5,
+          "latitude": 17.0912,
+          "longitude": 82.0665,
+          "crossed": false,
+          "crossedAt": null,
+          "consecutivePings": 0,
+          "status": "pending"
+        }
+      ],
+      "totalDistanceKm": 0,
+      "remainingDistanceKm": 0,
+      "currentSpeedKmph": 0,
+      "currentLocation": null,
+      "routePath": {
+        "type": "LineString",
+        "coordinates": []
+      },
+      "lastUpdatedAt": "2026-06-21T10:37:13.022Z",
+      "summary": {
+        "averageSpeedKmph": 0,
+        "maxSpeedKmph": 0,
+        "villagesCrossed": 0,
+        "durationMinutes": 0,
+        "totalBoarded": 0,
+        "totalDropped": 0,
+        "peakOccupancy": 2,
+        "averageOccupancy": 0
+      },
+      "isDemo": false,
+      "createdAt": "2026-06-21T10:37:13.026Z",
+      "updatedAt": "2026-06-21T10:37:24.285Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a37bf83e9d83e590577616d",
+      "tripId": "TRIP-ef2d8b1a-988a-408f-9412-bafe1270fc78",
+      "busId": "BUS88911",
+      "driverId": "DRV-TEST-99",
+      "routeId": "ROUTE-A",
+      "startTime": "2026-06-21T10:40:03.722Z",
+      "endTime": "2026-06-21T10:40:47.659Z",
+      "status": "completed",
+      "direction": "to_college",
+      "tripType": "Trip 1 - Home → College",
+      "routeProgress": [
+        {
+          "villageId": "ROUTE-A-VIL-001",
+          "villageName": "Samalkot",
+          "sequence": 1,
+          "latitude": 17.0504,
+          "longitude": 82.1659,
+          "crossed": false,
+          "crossedAt": null,
+          "consecutivePings": 0,
+          "status": "current"
+        },
+        {
+          "villageId": "ROUTE-A-VIL-002",
+          "villageName": "Vetlapalem",
+          "sequence": 2,
+          "latitude": 17.0259,
+          "longitude": 82.1369,
+          "crossed": false,
+          "crossedAt": null,
+          "consecutivePings": 0,
+          "status": "pending"
+        },
+        {
+          "villageId": "ROUTE-A-VIL-003",
+          "villageName": "Peddapuram",
+          "sequence": 3,
+          "latitude": 17.0757,
+          "longitude": 82.1433,
+          "crossed": false,
+          "crossedAt": null,
+          "consecutivePings": 0,
+          "status": "pending"
+        },
+        {
+          "villageId": "ROUTE-A-VIL-004",
+          "villageName": "Yerrampalem",
+          "sequence": 4,
+          "latitude": 17.0864,
+          "longitude": 82.0945,
+          "crossed": false,
+          "crossedAt": null,
+          "consecutivePings": 0,
+          "status": "pending"
+        },
+        {
+          "villageId": "ROUTE-A-VIL-005",
+          "villageName": "Aditya University",
+          "sequence": 5,
+          "latitude": 17.0912,
+          "longitude": 82.0665,
+          "crossed": false,
+          "crossedAt": null,
+          "consecutivePings": 0,
+          "status": "pending"
+        }
+      ],
+      "totalDistanceKm": 0,
+      "remainingDistanceKm": 0,
+      "currentSpeedKmph": 0,
+      "currentLocation": null,
+      "routePath": {
+        "type": "LineString",
+        "coordinates": []
+      },
+      "lastUpdatedAt": "2026-06-21T10:40:03.722Z",
+      "summary": {
+        "averageSpeedKmph": 0,
+        "maxSpeedKmph": 0,
+        "villagesCrossed": 0,
+        "durationMinutes": 1,
+        "totalBoarded": 2,
+        "totalDropped": 2,
+        "peakOccupancy": 2,
+        "averageOccupancy": 2
+      },
+      "isDemo": false,
+      "createdAt": "2026-06-21T10:40:03.728Z",
+      "updatedAt": "2026-06-21T10:40:47.661Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a38b9c0f264a4c5db2a1fc9",
+      "tripId": "TRIP-a429ecb3-c6c0-4e64-8a23-0fa95a449962",
+      "busId": "BUS004",
+      "driverId": "DRV004",
+      "routeId": "ROUTE-D",
+      "startTime": "2026-06-22T04:27:44.794Z",
+      "endTime": "2026-06-22T04:29:09.114Z",
+      "status": "completed",
+      "direction": "from_college",
+      "tripType": "Trip 2 - College → Home",
+      "routeProgress": [
+        {
+          "villageId": "Aditya University",
+          "villageName": "Aditya University",
+          "sequence": 1,
+          "latitude": 17.0912,
+          "longitude": 82.0665,
+          "crossed": false,
+          "crossedAt": null,
+          "consecutivePings": 0,
+          "status": "current"
+        },
+        {
+          "villageId": "ragamapeta",
+          "villageName": "ragamapeta",
+          "sequence": 2,
+          "latitude": 0,
+          "longitude": 0,
+          "crossed": false,
+          "crossedAt": null,
+          "consecutivePings": 0,
+          "status": "pending"
+        }
+      ],
+      "totalDistanceKm": 0,
+      "remainingDistanceKm": 0,
+      "currentSpeedKmph": 0,
+      "currentLocation": null,
+      "routePath": {
+        "type": "LineString",
+        "coordinates": []
+      },
+      "lastUpdatedAt": "2026-06-22T04:27:44.794Z",
+      "summary": {
+        "averageSpeedKmph": 0,
+        "maxSpeedKmph": 0,
+        "villagesCrossed": 0,
+        "durationMinutes": 1,
+        "totalBoarded": 0,
+        "totalDropped": 0,
+        "peakOccupancy": 0,
+        "averageOccupancy": 0
+      },
+      "isDemo": false,
+      "createdAt": "2026-06-22T04:27:44.799Z",
+      "updatedAt": "2026-06-22T04:29:09.117Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a38ba29f264a4c5db2a1fce",
+      "tripId": "TRIP-ab9b7437-5901-4110-a9f7-4110199769e5",
+      "busId": "BUS004",
+      "driverId": "DRV004",
+      "routeId": "ROUTE-D",
+      "startTime": "2026-06-22T04:29:29.544Z",
+      "endTime": null,
+      "status": "active",
+      "direction": "to_college",
+      "tripType": "Trip 1 - Home → College",
+      "routeProgress": [
+        {
+          "villageId": "ragamapeta",
+          "villageName": "ragamapeta",
+          "sequence": 1,
+          "latitude": 0,
+          "longitude": 0,
+          "crossed": false,
+          "crossedAt": null,
+          "consecutivePings": 0,
+          "status": "current"
+        },
+        {
+          "villageId": "Aditya University",
+          "villageName": "Aditya University",
+          "sequence": 2,
+          "latitude": 17.0912,
+          "longitude": 82.0665,
+          "crossed": false,
+          "crossedAt": null,
+          "consecutivePings": 0,
+          "status": "pending"
+        }
+      ],
+      "totalDistanceKm": 18329.22,
+      "remainingDistanceKm": 18329.22,
+      "currentSpeedKmph": 0,
+      "currentLocation": {
+        "latitude": 17.089939,
+        "longitude": 82.067337,
+        "speed": 0,
+        "heading": 0,
+        "timestamp": "2026-06-22T04:37:34.033Z"
+      },
+      "routePath": {
+        "type": "LineString",
+        "coordinates": []
+      },
+      "lastUpdatedAt": "2026-06-22T04:37:34.033Z",
+      "summary": {
+        "averageSpeedKmph": 0,
+        "maxSpeedKmph": 0,
+        "villagesCrossed": 0,
+        "durationMinutes": 0,
+        "totalBoarded": 0,
+        "totalDropped": 0,
+        "peakOccupancy": 2,
+        "averageOccupancy": 0
+      },
+      "isDemo": false,
+      "createdAt": "2026-06-22T04:29:29.547Z",
+      "updatedAt": "2026-06-22T04:38:20.837Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a3910dd7ea8d2a852cb8247",
+      "tripId": "TRIP-203d7b67-082d-4fb4-9e6a-7c52c6f8975e",
+      "busId": "BUS999",
+      "driverId": "DRV001",
+      "routeId": "ROUTE-C",
+      "startTime": "2026-06-22T10:39:25.846Z",
+      "endTime": null,
+      "status": "completed",
+      "direction": "to_college",
+      "tripType": "Trip 1 - Home → College",
+      "routeProgress": [
+        {
+          "villageId": "Venkatapuram",
+          "villageName": "Venkatapuram",
+          "sequence": 1,
+          "latitude": 17.0259,
+          "longitude": 82.1369,
+          "crossed": false,
+          "crossedAt": null,
+          "consecutivePings": 0,
+          "status": "current"
+        },
+        {
+          "villageId": "Aditya University",
+          "villageName": "Aditya University",
+          "sequence": 2,
+          "latitude": 17.0912,
+          "longitude": 82.0665,
+          "crossed": false,
+          "crossedAt": null,
+          "consecutivePings": 0,
+          "status": "pending"
+        }
+      ],
+      "totalDistanceKm": 0,
+      "remainingDistanceKm": 0,
+      "currentSpeedKmph": 0,
+      "currentLocation": null,
+      "routePath": {
+        "type": "LineString",
+        "coordinates": []
+      },
+      "lastUpdatedAt": "2026-06-22T10:39:25.846Z",
+      "summary": {
+        "averageSpeedKmph": 0,
+        "maxSpeedKmph": 0,
+        "villagesCrossed": 0,
+        "durationMinutes": 0,
+        "totalBoarded": 0,
+        "totalDropped": 0,
+        "peakOccupancy": 0,
+        "averageOccupancy": 0
+      },
+      "isDemo": false,
+      "createdAt": "2026-06-22T10:39:25.851Z",
+      "updatedAt": "2026-06-22T10:39:26.959Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a3910df7ea8d2a852cb824a",
+      "tripId": "TRIP-21997e7c-f3f0-4d57-8595-a66fab3c379c",
+      "busId": "BUS999",
+      "driverId": "DRV001",
+      "routeId": "ROUTE-C",
+      "startTime": "2026-06-22T10:39:27.183Z",
+      "endTime": null,
+      "status": "completed",
+      "direction": "from_college",
+      "tripType": "Trip 2 - College → Home",
+      "routeProgress": [
+        {
+          "villageId": "Aditya University",
+          "villageName": "Aditya University",
+          "sequence": 1,
+          "latitude": 17.0912,
+          "longitude": 82.0665,
+          "crossed": false,
+          "crossedAt": null,
+          "consecutivePings": 0,
+          "status": "current"
+        },
+        {
+          "villageId": "Venkatapuram",
+          "villageName": "Venkatapuram",
+          "sequence": 2,
+          "latitude": 17.0259,
+          "longitude": 82.1369,
+          "crossed": false,
+          "crossedAt": null,
+          "consecutivePings": 0,
+          "status": "pending"
+        }
+      ],
+      "totalDistanceKm": 0,
+      "remainingDistanceKm": 0,
+      "currentSpeedKmph": 0,
+      "currentLocation": null,
+      "routePath": {
+        "type": "LineString",
+        "coordinates": []
+      },
+      "lastUpdatedAt": "2026-06-22T10:39:27.183Z",
+      "summary": {
+        "averageSpeedKmph": 0,
+        "maxSpeedKmph": 0,
+        "villagesCrossed": 0,
+        "durationMinutes": 0,
+        "totalBoarded": 0,
+        "totalDropped": 0,
+        "peakOccupancy": 0,
+        "averageOccupancy": 0
+      },
+      "isDemo": false,
+      "createdAt": "2026-06-22T10:39:27.188Z",
+      "updatedAt": "2026-06-22T10:39:27.828Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a3910e67ea8d2a852cb8258",
+      "tripId": "TRIP-610c607e-b688-4523-9340-0186175bcda1",
+      "busId": "BUS999",
+      "driverId": "DRV001",
+      "routeId": "ROUTE-C",
+      "startTime": "2026-06-22T10:39:34.902Z",
+      "endTime": "2026-06-22T10:39:41.015Z",
+      "status": "completed",
+      "direction": "to_college",
+      "tripType": "Trip 1 - Home → College",
+      "routeProgress": [
+        {
+          "villageId": "Venkatapuram",
+          "villageName": "Venkatapuram",
+          "sequence": 1,
+          "latitude": 17.0259,
+          "longitude": 82.1369,
+          "crossed": false,
+          "crossedAt": null,
+          "consecutivePings": 0,
+          "status": "current"
+        },
+        {
+          "villageId": "Aditya University",
+          "villageName": "Aditya University",
+          "sequence": 2,
+          "latitude": 17.0912,
+          "longitude": 82.0665,
+          "crossed": false,
+          "crossedAt": null,
+          "consecutivePings": 0,
+          "status": "pending"
+        }
+      ],
+      "totalDistanceKm": 0,
+      "remainingDistanceKm": 0,
+      "currentSpeedKmph": 0,
+      "currentLocation": null,
+      "routePath": {
+        "type": "LineString",
+        "coordinates": []
+      },
+      "lastUpdatedAt": "2026-06-22T10:39:34.902Z",
+      "summary": {
+        "averageSpeedKmph": 0,
+        "maxSpeedKmph": 0,
+        "villagesCrossed": 0,
+        "durationMinutes": 1,
+        "totalBoarded": 0,
+        "totalDropped": 0,
+        "peakOccupancy": 0,
+        "averageOccupancy": 0
+      },
+      "isDemo": false,
+      "createdAt": "2026-06-22T10:39:34.905Z",
+      "updatedAt": "2026-06-22T10:39:41.018Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a391236c601010963aafdd0",
+      "tripId": "TRIP-6fa8f412-6507-4eb8-b5da-aca77c389bd9",
+      "busId": "BUS003",
+      "driverId": "DRV003",
+      "routeId": "ROUTE-C",
+      "startTime": "2026-06-22T10:45:10.519Z",
+      "endTime": null,
+      "status": "active",
+      "direction": "from_college",
+      "tripType": "",
+      "routeProgress": [
+        {
+          "villageId": "Aditya University",
+          "villageName": "Aditya University",
+          "sequence": 1,
+          "latitude": 17.0912,
+          "longitude": 82.0665,
+          "crossed": false,
+          "crossedAt": null,
+          "consecutivePings": 0,
+          "status": "current"
+        },
+        {
+          "villageId": "Rameswarampeta",
+          "villageName": "Rameswarampeta",
+          "sequence": 2,
+          "latitude": 17.083747,
+          "longitude": 82.049924,
+          "crossed": false,
+          "crossedAt": null,
+          "consecutivePings": 0,
+          "status": "pending"
+        },
+        {
+          "villageId": "Venkatapuram",
+          "villageName": "Venkatapuram",
+          "sequence": 3,
+          "latitude": 17.0259,
+          "longitude": 82.1369,
+          "crossed": false,
+          "crossedAt": null,
+          "consecutivePings": 0,
+          "status": "pending"
+        },
+        {
+          "villageId": "Diwancheruvu",
+          "villageName": "Diwancheruvu",
+          "sequence": 4,
+          "latitude": 17.045641,
+          "longitude": 81.839246,
+          "crossed": false,
+          "crossedAt": null,
+          "consecutivePings": 0,
+          "status": "pending"
+        },
+        {
+          "villageId": "Cyclone Colony",
+          "villageName": "Cyclone Colony",
+          "sequence": 5,
+          "latitude": 17.020405,
+          "longitude": 81.798942,
+          "crossed": false,
+          "crossedAt": null,
+          "consecutivePings": 0,
+          "status": "pending"
+        }
+      ],
+      "totalDistanceKm": 51.77,
+      "remainingDistanceKm": 51.77,
+      "currentSpeedKmph": 0,
+      "currentLocation": {
+        "latitude": 17.085684,
+        "longitude": 82.051407,
+        "speed": 0,
+        "heading": 0,
+        "timestamp": "2026-06-22T10:46:26.702Z"
+      },
+      "routePath": {
+        "type": "LineString",
+        "coordinates": []
+      },
+      "lastUpdatedAt": "2026-06-22T10:46:26.702Z",
+      "summary": {
+        "totalBoarded": 0,
+        "totalDropped": 0,
+        "peakOccupancy": 0,
+        "averageOccupancy": 0
+      },
+      "isDemo": false,
+      "createdAt": "2026-06-22T10:45:10.525Z",
+      "updatedAt": "2026-06-22T15:47:34.952Z",
+      "__v": 0
+    }
+  ],
+  "scanLogs": [
+    {
+      "_id": "6a2ceec0dba73d4084156375",
+      "id": "SCAN-1781329600142",
+      "student_id": "STU001",
+      "student_name": "Veera Kumar",
+      "register_no": "22B91A0501",
+      "action": "board",
+      "scanMode": "",
+      "tripType": "",
+      "latitude": 0,
+      "longitude": 0,
+      "smsStatus": "",
+      "bus_number": "BUS-12",
+      "driver_id": "",
+      "trip_id": "",
+      "time": "11:16 AM",
+      "date": "2026-06-13",
+      "result": "success",
+      "failureReason": "",
+      "isDemo": false,
+      "createdAt": "2026-06-13T05:46:40.170Z",
+      "updatedAt": "2026-06-13T05:46:40.170Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a2ceec0dba73d4084156378",
+      "id": "SCAN-1781329600331",
+      "student_id": "STU001",
+      "student_name": "Veera Kumar",
+      "register_no": "22B91A0501",
+      "action": "dropoff",
+      "scanMode": "",
+      "tripType": "",
+      "latitude": 0,
+      "longitude": 0,
+      "smsStatus": "",
+      "bus_number": "BUS-12",
+      "driver_id": "",
+      "trip_id": "",
+      "time": "11:16 AM",
+      "date": "2026-06-13",
+      "result": "success",
+      "failureReason": "",
+      "isDemo": false,
+      "createdAt": "2026-06-13T05:46:40.332Z",
+      "updatedAt": "2026-06-13T05:46:40.332Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a2ceed7dba73d408415637b",
+      "id": "SCAN-1781329623421",
+      "student_id": "STU004",
+      "student_name": "Balaji",
+      "register_no": "24B11DS092",
+      "action": "board",
+      "scanMode": "",
+      "tripType": "",
+      "latitude": 0,
+      "longitude": 0,
+      "smsStatus": "",
+      "bus_number": "BUS-03",
+      "driver_id": "",
+      "trip_id": "",
+      "time": "11:17 AM",
+      "date": "2026-06-13",
+      "result": "success",
+      "failureReason": "",
+      "isDemo": false,
+      "createdAt": "2026-06-13T05:47:03.422Z",
+      "updatedAt": "2026-06-13T05:47:03.422Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a2cef34dba73d408415637e",
+      "id": "SCAN-1781329716731",
+      "student_id": "STU003",
+      "student_name": "Veerendra",
+      "register_no": "24B11DS068",
+      "action": "board",
+      "scanMode": "",
+      "tripType": "",
+      "latitude": 0,
+      "longitude": 0,
+      "smsStatus": "",
+      "bus_number": "BUS-12",
+      "driver_id": "",
+      "trip_id": "",
+      "time": "11:18 AM",
+      "date": "2026-06-13",
+      "result": "success",
+      "failureReason": "",
+      "isDemo": false,
+      "createdAt": "2026-06-13T05:48:36.735Z",
+      "updatedAt": "2026-06-13T05:48:36.735Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a2cef76dba73d4084156381",
+      "id": "SCAN-1781329782211",
+      "student_id": "STU003",
+      "student_name": "Veerendra",
+      "register_no": "24B11DS068",
+      "action": "dropoff",
+      "scanMode": "",
+      "tripType": "",
+      "latitude": 0,
+      "longitude": 0,
+      "smsStatus": "",
+      "bus_number": "BUS-12",
+      "driver_id": "",
+      "trip_id": "",
+      "time": "11:19 AM",
+      "date": "2026-06-13",
+      "result": "success",
+      "failureReason": "",
+      "isDemo": false,
+      "createdAt": "2026-06-13T05:49:42.212Z",
+      "updatedAt": "2026-06-13T05:49:42.212Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a2cface94491d253c2ae64a",
+      "id": "SCAN-1781332686145",
+      "student_id": "STU001",
+      "student_name": "Veera Kumar",
+      "register_no": "22B91A0501",
+      "action": "board",
+      "scanMode": "",
+      "tripType": "",
+      "latitude": 0,
+      "longitude": 0,
+      "smsStatus": "",
+      "bus_number": "BUS-12",
+      "driver_id": "",
+      "trip_id": "",
+      "time": "02:38 PM",
+      "date": "2026-06-13",
+      "result": "success",
+      "failureReason": "",
+      "isDemo": false,
+      "createdAt": "2026-06-13T06:38:06.163Z",
+      "updatedAt": "2026-06-13T06:38:06.163Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a2cfad394491d253c2ae64d",
+      "id": "SCAN-1781332691055",
+      "student_id": "STU001",
+      "student_name": "Veera Kumar",
+      "register_no": "22B91A0501",
+      "action": "dropoff",
+      "scanMode": "",
+      "tripType": "",
+      "latitude": 0,
+      "longitude": 0,
+      "smsStatus": "",
+      "bus_number": "BUS-12",
+      "driver_id": "",
+      "trip_id": "",
+      "time": "02:38 PM",
+      "date": "2026-06-13",
+      "result": "success",
+      "failureReason": "",
+      "isDemo": false,
+      "createdAt": "2026-06-13T06:38:11.055Z",
+      "updatedAt": "2026-06-13T06:38:11.055Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a2d38f394491d253c2ae650",
+      "id": "SCAN-1781348595322",
+      "student_id": "STU001",
+      "student_name": "Veera Kumar",
+      "register_no": "22B91A0501",
+      "action": "board",
+      "scanMode": "",
+      "tripType": "",
+      "latitude": 0,
+      "longitude": 0,
+      "smsStatus": "",
+      "bus_number": "BUS-12",
+      "driver_id": "",
+      "trip_id": "",
+      "time": "07:03 PM",
+      "date": "2026-06-13",
+      "result": "success",
+      "failureReason": "",
+      "isDemo": false,
+      "createdAt": "2026-06-13T11:03:15.323Z",
+      "updatedAt": "2026-06-13T11:03:15.323Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a2d38f494491d253c2ae653",
+      "id": "SCAN-1781348596450",
+      "student_id": "STU001",
+      "student_name": "Veera Kumar",
+      "register_no": "22B91A0501",
+      "action": "dropoff",
+      "scanMode": "",
+      "tripType": "",
+      "latitude": 0,
+      "longitude": 0,
+      "smsStatus": "",
+      "bus_number": "BUS-12",
+      "driver_id": "",
+      "trip_id": "",
+      "time": "07:03 PM",
+      "date": "2026-06-13",
+      "result": "success",
+      "failureReason": "",
+      "isDemo": false,
+      "createdAt": "2026-06-13T11:03:16.451Z",
+      "updatedAt": "2026-06-13T11:03:16.451Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a2f86f01fb8449414c75407",
+      "id": "SCAN-1781499632131",
+      "student_id": "STU003",
+      "student_name": "Veerendra",
+      "register_no": "24B11DS068",
+      "action": "board",
+      "scanMode": "",
+      "tripType": "",
+      "latitude": 0,
+      "longitude": 0,
+      "smsStatus": "",
+      "bus_number": "BUS-12",
+      "driver_id": "",
+      "trip_id": "",
+      "time": "10:30 AM",
+      "date": "2026-06-15",
+      "result": "success",
+      "failureReason": "",
+      "isDemo": false,
+      "createdAt": "2026-06-15T05:00:32.182Z",
+      "updatedAt": "2026-06-15T05:00:32.182Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a2f88461fb8449414c7540a",
+      "id": "SCAN-1781499974926",
+      "student_id": "STU003",
+      "student_name": "Veerendra",
+      "register_no": "24B11DS068",
+      "action": "board",
+      "scanMode": "",
+      "tripType": "",
+      "latitude": 0,
+      "longitude": 0,
+      "smsStatus": "",
+      "bus_number": "BUS-03",
+      "driver_id": "",
+      "trip_id": "",
+      "time": "10:36 AM",
+      "date": "2026-06-15",
+      "result": "success",
+      "failureReason": "",
+      "isDemo": false,
+      "createdAt": "2026-06-15T05:06:14.928Z",
+      "updatedAt": "2026-06-15T05:06:14.928Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a2f8936b4ee5071c526e9c7",
+      "id": "SCAN-1781500214808",
+      "student_id": "STU003",
+      "student_name": "Veerendra",
+      "register_no": "24B11DS068",
+      "action": "board",
+      "scanMode": "",
+      "tripType": "",
+      "latitude": 0,
+      "longitude": 0,
+      "smsStatus": "",
+      "bus_number": "BUS-03",
+      "driver_id": "",
+      "trip_id": "",
+      "time": "10:40 AM",
+      "date": "2026-06-15",
+      "result": "success",
+      "failureReason": "",
+      "isDemo": false,
+      "createdAt": "2026-06-15T05:10:14.856Z",
+      "updatedAt": "2026-06-15T05:10:14.856Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a2f897401fd339c78b5d454",
+      "id": "SCAN-1781500276579",
+      "student_id": "STU003",
+      "student_name": "Veerendra",
+      "register_no": "24B11DS068",
+      "action": "board",
+      "scanMode": "",
+      "tripType": "",
+      "latitude": 0,
+      "longitude": 0,
+      "smsStatus": "",
+      "bus_number": "BUS-03",
+      "driver_id": "",
+      "trip_id": "",
+      "time": "10:41 AM",
+      "date": "2026-06-15",
+      "result": "success",
+      "failureReason": "",
+      "isDemo": false,
+      "createdAt": "2026-06-15T05:11:16.613Z",
+      "updatedAt": "2026-06-15T05:11:16.613Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a2f8977a3bf92aee93cd1e3",
+      "id": "SCAN-1781500279029",
+      "student_id": "STU003",
+      "student_name": "Veerendra",
+      "register_no": "24B11DS068",
+      "action": "board",
+      "scanMode": "",
+      "tripType": "",
+      "latitude": 0,
+      "longitude": 0,
+      "smsStatus": "",
+      "bus_number": "BUS-03",
+      "driver_id": "",
+      "trip_id": "",
+      "time": "10:41 AM",
+      "date": "2026-06-15",
+      "result": "success",
+      "failureReason": "",
+      "isDemo": false,
+      "createdAt": "2026-06-15T05:11:19.045Z",
+      "updatedAt": "2026-06-15T05:11:19.045Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a2f8ae28568b8fa20ce4b43",
+      "id": "SCAN-1781500642218",
+      "student_id": "STU003",
+      "student_name": "Veerendra",
+      "register_no": "24B11DS068",
+      "action": "board",
+      "scanMode": "",
+      "tripType": "",
+      "latitude": 0,
+      "longitude": 0,
+      "smsStatus": "",
+      "bus_number": "BUS-03",
+      "driver_id": "",
+      "trip_id": "",
+      "time": "10:47 AM",
+      "date": "2026-06-15",
+      "result": "success",
+      "failureReason": "",
+      "isDemo": false,
+      "createdAt": "2026-06-15T05:17:22.271Z",
+      "updatedAt": "2026-06-15T05:17:22.271Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a2f8b2b8568b8fa20ce4b46",
+      "id": "SCAN-1781500715838",
+      "student_id": "STU001",
+      "student_name": "Veera Kumar",
+      "register_no": "22B91A0501",
+      "action": "board",
+      "scanMode": "",
+      "tripType": "",
+      "latitude": 0,
+      "longitude": 0,
+      "smsStatus": "",
+      "bus_number": "BUS-03",
+      "driver_id": "",
+      "trip_id": "",
+      "time": "10:48 AM",
+      "date": "2026-06-15",
+      "result": "success",
+      "failureReason": "",
+      "isDemo": false,
+      "createdAt": "2026-06-15T05:18:35.840Z",
+      "updatedAt": "2026-06-15T05:18:35.840Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a2f8b428568b8fa20ce4b49",
+      "id": "SCAN-1781500738059",
+      "student_id": "STU001",
+      "student_name": "Veera Kumar",
+      "register_no": "22B91A0501",
+      "action": "dropoff",
+      "scanMode": "",
+      "tripType": "",
+      "latitude": 0,
+      "longitude": 0,
+      "smsStatus": "",
+      "bus_number": "BUS-03",
+      "driver_id": "",
+      "trip_id": "",
+      "time": "10:48 AM",
+      "date": "2026-06-15",
+      "result": "success",
+      "failureReason": "",
+      "isDemo": false,
+      "createdAt": "2026-06-15T05:18:58.060Z",
+      "updatedAt": "2026-06-15T05:18:58.060Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a2f8bb38568b8fa20ce4b4c",
+      "id": "SCAN-1781500851192",
+      "student_id": "STU003",
+      "student_name": "Veerendra",
+      "register_no": "24B11DS068",
+      "action": "dropoff",
+      "scanMode": "",
+      "tripType": "",
+      "latitude": 0,
+      "longitude": 0,
+      "smsStatus": "",
+      "bus_number": "BUS-03",
+      "driver_id": "",
+      "trip_id": "",
+      "time": "10:50 AM",
+      "date": "2026-06-15",
+      "result": "success",
+      "failureReason": "",
+      "isDemo": false,
+      "createdAt": "2026-06-15T05:20:51.194Z",
+      "updatedAt": "2026-06-15T05:20:51.194Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a2f99918568b8fa20ce4b4f",
+      "id": "SCAN-1781504401417",
+      "student_id": "STU004",
+      "student_name": "A.V.S.Manikanta",
+      "register_no": "24B11DS005",
+      "action": "board",
+      "scanMode": "",
+      "tripType": "",
+      "latitude": 0,
+      "longitude": 0,
+      "smsStatus": "",
+      "bus_number": "BUS-03",
+      "driver_id": "",
+      "trip_id": "",
+      "time": "11:50 AM",
+      "date": "2026-06-15",
+      "result": "success",
+      "failureReason": "",
+      "isDemo": false,
+      "createdAt": "2026-06-15T06:20:01.419Z",
+      "updatedAt": "2026-06-15T06:20:01.419Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a2f99ab8568b8fa20ce4b52",
+      "id": "SCAN-1781504427060",
+      "student_id": "STU004",
+      "student_name": "A.V.S.Manikanta",
+      "register_no": "24B11DS005",
+      "action": "dropoff",
+      "scanMode": "",
+      "tripType": "",
+      "latitude": 0,
+      "longitude": 0,
+      "smsStatus": "",
+      "bus_number": "BUS-03",
+      "driver_id": "",
+      "trip_id": "",
+      "time": "11:50 AM",
+      "date": "2026-06-15",
+      "result": "success",
+      "failureReason": "",
+      "isDemo": false,
+      "createdAt": "2026-06-15T06:20:27.061Z",
+      "updatedAt": "2026-06-15T06:20:27.061Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a2f99c58568b8fa20ce4b55",
+      "id": "SCAN-1781504453222",
+      "student_id": "STU001",
+      "student_name": "Veera Kumar",
+      "register_no": "22B91A0501",
+      "action": "dropoff",
+      "scanMode": "",
+      "tripType": "",
+      "latitude": 0,
+      "longitude": 0,
+      "smsStatus": "",
+      "bus_number": "BUS-03",
+      "driver_id": "",
+      "trip_id": "",
+      "time": "11:50 AM",
+      "date": "2026-06-15",
+      "result": "success",
+      "failureReason": "",
+      "isDemo": false,
+      "createdAt": "2026-06-15T06:20:53.222Z",
+      "updatedAt": "2026-06-15T06:20:53.222Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a2f9bb649078043a3ee28c9",
+      "id": "SCAN-1781504950534",
+      "student_id": "STU003",
+      "student_name": "Veerendra",
+      "register_no": "24B11DS068",
+      "action": "board",
+      "scanMode": "",
+      "tripType": "",
+      "latitude": 0,
+      "longitude": 0,
+      "smsStatus": "",
+      "bus_number": "BUS-03",
+      "driver_id": "",
+      "trip_id": "",
+      "time": "11:59 AM",
+      "date": "2026-06-15",
+      "result": "success",
+      "failureReason": "",
+      "isDemo": false,
+      "createdAt": "2026-06-15T06:29:10.579Z",
+      "updatedAt": "2026-06-15T06:29:10.579Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a2f9c4e4f4c105cb524bb9a",
+      "id": "SCAN-1781505102724",
+      "student_id": "STU003",
+      "student_name": "Veerendra",
+      "register_no": "24B11DS068",
+      "action": "board",
+      "scanMode": "",
+      "tripType": "",
+      "latitude": 0,
+      "longitude": 0,
+      "smsStatus": "",
+      "bus_number": "BUS-12",
+      "driver_id": "",
+      "trip_id": "",
+      "time": "12:01 PM",
+      "date": "2026-06-15",
+      "result": "success",
+      "failureReason": "",
+      "isDemo": false,
+      "createdAt": "2026-06-15T06:31:42.784Z",
+      "updatedAt": "2026-06-15T06:31:42.784Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a2f9cff1e7c8dd6279b3082",
+      "id": "SCAN-1781505279244",
+      "student_id": "STU003",
+      "student_name": "Veerendra",
+      "register_no": "24B11DS068",
+      "action": "board",
+      "scanMode": "",
+      "tripType": "",
+      "latitude": 0,
+      "longitude": 0,
+      "smsStatus": "",
+      "bus_number": "BUS-12",
+      "driver_id": "",
+      "trip_id": "",
+      "time": "12:04 PM",
+      "date": "2026-06-15",
+      "result": "success",
+      "failureReason": "",
+      "isDemo": false,
+      "createdAt": "2026-06-15T06:34:39.280Z",
+      "updatedAt": "2026-06-15T06:34:39.280Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a2f9df8a8ba452879f2dd55",
+      "id": "SCAN-1781505528926",
+      "student_id": "STU003",
+      "student_name": "Veerendra",
+      "register_no": "24B11DS068",
+      "action": "board",
+      "scanMode": "",
+      "tripType": "",
+      "latitude": 0,
+      "longitude": 0,
+      "smsStatus": "",
+      "bus_number": "BUS-12",
+      "driver_id": "",
+      "trip_id": "",
+      "time": "12:08 PM",
+      "date": "2026-06-15",
+      "result": "success",
+      "failureReason": "",
+      "isDemo": false,
+      "createdAt": "2026-06-15T06:38:48.968Z",
+      "updatedAt": "2026-06-15T06:38:48.968Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a2f9e531dae5b8967e6074e",
+      "id": "SCAN-1781505618966",
+      "student_id": "STU003",
+      "student_name": "Veerendra",
+      "register_no": "24B11DS068",
+      "action": "board",
+      "scanMode": "",
+      "tripType": "",
+      "latitude": 0,
+      "longitude": 0,
+      "smsStatus": "",
+      "bus_number": "BUS-12",
+      "driver_id": "",
+      "trip_id": "",
+      "time": "12:10 PM",
+      "date": "2026-06-15",
+      "result": "success",
+      "failureReason": "",
+      "isDemo": false,
+      "createdAt": "2026-06-15T06:40:19.022Z",
+      "updatedAt": "2026-06-15T06:40:19.022Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a2fae09939e417ffccb4551",
+      "id": "SCAN-1781509641338",
+      "student_id": "STU004",
+      "student_name": "A.V.S.Manikanta",
+      "register_no": "24B11DS005",
+      "action": "board",
+      "scanMode": "",
+      "tripType": "",
+      "latitude": 0,
+      "longitude": 0,
+      "smsStatus": "",
+      "bus_number": "BUS-03",
+      "driver_id": "",
+      "trip_id": "",
+      "time": "01:17 PM",
+      "date": "2026-06-15",
+      "result": "success",
+      "failureReason": "",
+      "isDemo": false,
+      "createdAt": "2026-06-15T07:47:21.518Z",
+      "updatedAt": "2026-06-15T07:47:21.518Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a2fae22b7d2f9ab632fee60",
+      "id": "SCAN-1781509666018",
+      "student_id": "STU003",
+      "student_name": "Veerendra",
+      "register_no": "24B11DS068",
+      "action": "board",
+      "scanMode": "",
+      "tripType": "",
+      "latitude": 0,
+      "longitude": 0,
+      "smsStatus": "",
+      "bus_number": "BUS-12",
+      "driver_id": "",
+      "trip_id": "",
+      "time": "01:17 PM",
+      "date": "2026-06-15",
+      "result": "success",
+      "failureReason": "",
+      "isDemo": false,
+      "createdAt": "2026-06-15T07:47:46.065Z",
+      "updatedAt": "2026-06-15T07:47:46.065Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a2faf1f0e088268a2d40fed",
+      "id": "SCAN-1781509919587",
+      "student_id": "STU003",
+      "student_name": "Veerendra",
+      "register_no": "24B11DS068",
+      "action": "board",
+      "scanMode": "",
+      "tripType": "",
+      "latitude": 0,
+      "longitude": 0,
+      "smsStatus": "",
+      "bus_number": "BUS-03",
+      "driver_id": "",
+      "trip_id": "",
+      "time": "01:21 PM",
+      "date": "2026-06-15",
+      "result": "success",
+      "failureReason": "",
+      "isDemo": false,
+      "createdAt": "2026-06-15T07:51:59.637Z",
+      "updatedAt": "2026-06-15T07:51:59.637Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a2fb391f2ecb92f023f7166",
+      "id": "SCAN-1781511057792",
+      "student_id": "STU003",
+      "student_name": "Veerendra",
+      "register_no": "24B11DS068",
+      "action": "board",
+      "scanMode": "",
+      "tripType": "",
+      "latitude": 0,
+      "longitude": 0,
+      "smsStatus": "",
+      "bus_number": "BUS-12",
+      "driver_id": "",
+      "trip_id": "",
+      "time": "01:40 PM",
+      "date": "2026-06-15",
+      "result": "success",
+      "failureReason": "",
+      "isDemo": false,
+      "createdAt": "2026-06-15T08:10:57.846Z",
+      "updatedAt": "2026-06-15T08:10:57.846Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a2fbab558f46ff9d4772c68",
+      "id": "SCAN-1781512885707",
+      "student_id": "STU003",
+      "student_name": "Veerendra",
+      "register_no": "24B11DS068",
+      "action": "board",
+      "scanMode": "",
+      "tripType": "",
+      "latitude": 0,
+      "longitude": 0,
+      "smsStatus": "",
+      "bus_number": "BUS-03",
+      "driver_id": "",
+      "trip_id": "",
+      "time": "02:11 PM",
+      "date": "2026-06-15",
+      "result": "success",
+      "failureReason": "",
+      "isDemo": false,
+      "createdAt": "2026-06-15T08:41:25.752Z",
+      "updatedAt": "2026-06-15T08:41:25.752Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a2fc14d10d4d7276e04fbf2",
+      "id": "SCAN-1781514573633",
+      "student_id": "STU003",
+      "student_name": "Veerendra",
+      "register_no": "24B11DS068",
+      "action": "board",
+      "scanMode": "",
+      "tripType": "",
+      "latitude": 0,
+      "longitude": 0,
+      "smsStatus": "",
+      "bus_number": "BUS-03",
+      "driver_id": "",
+      "trip_id": "",
+      "time": "02:39 PM",
+      "date": "2026-06-15",
+      "result": "success",
+      "failureReason": "",
+      "isDemo": false,
+      "createdAt": "2026-06-15T09:09:33.672Z",
+      "updatedAt": "2026-06-15T09:09:33.672Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a301ae4b7764900099cad98",
+      "id": "SCAN-1781537508672",
+      "student_id": "STU004",
+      "student_name": "A.V.S.Manikanta",
+      "register_no": "24B11DS005",
+      "action": "board",
+      "scanMode": "",
+      "tripType": "",
+      "latitude": 0,
+      "longitude": 0,
+      "smsStatus": "",
+      "bus_number": "BUS-09",
+      "driver_id": "",
+      "trip_id": "",
+      "time": "09:01 PM",
+      "date": "2026-06-15",
+      "result": "success",
+      "failureReason": "",
+      "isDemo": false,
+      "createdAt": "2026-06-15T15:31:48.710Z",
+      "updatedAt": "2026-06-15T15:31:48.710Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a301bb5cd29fc215b84cf12",
+      "id": "SCAN-1781537717366",
+      "student_id": "STU003",
+      "student_name": "Veerendra",
+      "register_no": "24B11DS068",
+      "action": "board",
+      "scanMode": "",
+      "tripType": "",
+      "latitude": 0,
+      "longitude": 0,
+      "smsStatus": "",
+      "bus_number": "BUS-12",
+      "driver_id": "",
+      "trip_id": "",
+      "time": "09:05 PM",
+      "date": "2026-06-15",
+      "result": "success",
+      "failureReason": "",
+      "isDemo": false,
+      "createdAt": "2026-06-15T15:35:17.410Z",
+      "updatedAt": "2026-06-15T15:35:17.410Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a301c74b2a643374e2bc1f2",
+      "id": "SCAN-1781537908233",
+      "student_id": "STU003",
+      "student_name": "Veerendra",
+      "register_no": "24B11DS068",
+      "action": "board",
+      "scanMode": "",
+      "tripType": "",
+      "latitude": 0,
+      "longitude": 0,
+      "smsStatus": "",
+      "bus_number": "BUS-12",
+      "driver_id": "",
+      "trip_id": "",
+      "time": "09:08 PM",
+      "date": "2026-06-15",
+      "result": "success",
+      "failureReason": "",
+      "isDemo": false,
+      "createdAt": "2026-06-15T15:38:28.269Z",
+      "updatedAt": "2026-06-15T15:38:28.269Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a301cbf2f64c31fb6c0a475",
+      "id": "SCAN-1781537983104",
+      "student_id": "STU003",
+      "student_name": "Veerendra",
+      "register_no": "24B11DS068",
+      "action": "board",
+      "scanMode": "",
+      "tripType": "",
+      "latitude": 0,
+      "longitude": 0,
+      "smsStatus": "",
+      "bus_number": "BUS-12",
+      "driver_id": "",
+      "trip_id": "",
+      "time": "09:09 PM",
+      "date": "2026-06-15",
+      "result": "success",
+      "failureReason": "",
+      "isDemo": false,
+      "createdAt": "2026-06-15T15:39:43.159Z",
+      "updatedAt": "2026-06-15T15:39:43.159Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a301cdc0da68b35457d77ba",
+      "id": "SCAN-1781538012375",
+      "student_id": "STU003",
+      "student_name": "Veerendra",
+      "register_no": "24B11DS068",
+      "action": "board",
+      "scanMode": "",
+      "tripType": "",
+      "latitude": 0,
+      "longitude": 0,
+      "smsStatus": "",
+      "bus_number": "BUS-12",
+      "driver_id": "",
+      "trip_id": "",
+      "time": "09:10 PM",
+      "date": "2026-06-15",
+      "result": "success",
+      "failureReason": "",
+      "isDemo": false,
+      "createdAt": "2026-06-15T15:40:12.414Z",
+      "updatedAt": "2026-06-15T15:40:12.414Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a301d0cb5c5fbb267c5943e",
+      "id": "SCAN-1781538060910",
+      "student_id": "STU003",
+      "student_name": "Veerendra",
+      "register_no": "24B11DS068",
+      "action": "board",
+      "scanMode": "",
+      "tripType": "",
+      "latitude": 0,
+      "longitude": 0,
+      "smsStatus": "",
+      "bus_number": "BUS-12",
+      "driver_id": "",
+      "trip_id": "",
+      "time": "09:11 PM",
+      "date": "2026-06-15",
+      "result": "success",
+      "failureReason": "",
+      "isDemo": false,
+      "createdAt": "2026-06-15T15:41:00.929Z",
+      "updatedAt": "2026-06-15T15:41:00.929Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a301d2cb151792cd7ab87ba",
+      "id": "SCAN-1781538092663",
+      "student_id": "STU003",
+      "student_name": "Veerendra",
+      "register_no": "24B11DS068",
+      "action": "board",
+      "scanMode": "",
+      "tripType": "",
+      "latitude": 0,
+      "longitude": 0,
+      "smsStatus": "",
+      "bus_number": "BUS-12",
+      "driver_id": "",
+      "trip_id": "",
+      "time": "09:11 PM",
+      "date": "2026-06-15",
+      "result": "success",
+      "failureReason": "",
+      "isDemo": false,
+      "createdAt": "2026-06-15T15:41:32.701Z",
+      "updatedAt": "2026-06-15T15:41:32.701Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a301dd47d6870a9b651f371",
+      "id": "SCAN-1781538260910-7uxok",
+      "student_id": "STU003",
+      "student_name": "Veerendra",
+      "register_no": "24B11DS068",
+      "action": "board",
+      "scanMode": "",
+      "tripType": "",
+      "latitude": 0,
+      "longitude": 0,
+      "smsStatus": "",
+      "bus_number": "BUS-12",
+      "driver_id": "",
+      "trip_id": "",
+      "time": "09:14 PM",
+      "date": "2026-06-15",
+      "result": "success",
+      "failureReason": "",
+      "isDemo": false,
+      "createdAt": "2026-06-15T15:44:20.923Z",
+      "updatedAt": "2026-06-15T15:44:20.923Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a301df678360658fae63903",
+      "id": "SCAN-1781538294842",
+      "student_id": "STU003",
+      "student_name": "Veerendra",
+      "register_no": "24B11DS068",
+      "action": "board",
+      "scanMode": "",
+      "tripType": "",
+      "latitude": 0,
+      "longitude": 0,
+      "smsStatus": "",
+      "bus_number": "BUS-12",
+      "driver_id": "",
+      "trip_id": "",
+      "time": "09:14 PM",
+      "date": "2026-06-15",
+      "result": "success",
+      "failureReason": "",
+      "isDemo": false,
+      "createdAt": "2026-06-15T15:44:54.882Z",
+      "updatedAt": "2026-06-15T15:44:54.882Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a301e5c7b04514a3ed91316",
+      "id": "SCAN-1781538396982-n9egb",
+      "student_id": "STU003",
+      "student_name": "Veerendra",
+      "register_no": "24B11DS068",
+      "action": "board",
+      "scanMode": "",
+      "tripType": "",
+      "latitude": 0,
+      "longitude": 0,
+      "smsStatus": "",
+      "bus_number": "BUS-12",
+      "driver_id": "",
+      "trip_id": "",
+      "time": "09:16 PM",
+      "date": "2026-06-15",
+      "result": "success",
+      "failureReason": "",
+      "isDemo": false,
+      "createdAt": "2026-06-15T15:46:36.996Z",
+      "updatedAt": "2026-06-15T15:46:36.996Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a301e881ae9c3f0635580af",
+      "id": "SCAN-1781538440181",
+      "student_id": "STU003",
+      "student_name": "Veerendra",
+      "register_no": "24B11DS068",
+      "action": "board",
+      "scanMode": "",
+      "tripType": "",
+      "latitude": 0,
+      "longitude": 0,
+      "smsStatus": "",
+      "bus_number": "BUS-12",
+      "driver_id": "",
+      "trip_id": "",
+      "time": "09:17 PM",
+      "date": "2026-06-15",
+      "result": "success",
+      "failureReason": "",
+      "isDemo": false,
+      "createdAt": "2026-06-15T15:47:20.200Z",
+      "updatedAt": "2026-06-15T15:47:20.200Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a301ea47b04514a3ed91319",
+      "id": "SCAN-1781538468027-32jjx",
+      "student_id": "STU003",
+      "student_name": "Veerendra",
+      "register_no": "24B11DS068",
+      "action": "dropoff",
+      "scanMode": "",
+      "tripType": "",
+      "latitude": 0,
+      "longitude": 0,
+      "smsStatus": "",
+      "bus_number": "BUS-12",
+      "driver_id": "",
+      "trip_id": "",
+      "time": "09:17 PM",
+      "date": "2026-06-15",
+      "result": "success",
+      "failureReason": "",
+      "isDemo": false,
+      "createdAt": "2026-06-15T15:47:48.027Z",
+      "updatedAt": "2026-06-15T15:47:48.027Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a301ef97b04514a3ed9131c",
+      "id": "SCAN-1781538553754-m26bd",
+      "student_id": "STU003",
+      "student_name": "Veerendra",
+      "register_no": "24B11DS068",
+      "action": "board",
+      "scanMode": "",
+      "tripType": "",
+      "latitude": 0,
+      "longitude": 0,
+      "smsStatus": "",
+      "bus_number": "BUS-12",
+      "driver_id": "",
+      "trip_id": "",
+      "time": "09:19 PM",
+      "date": "2026-06-15",
+      "result": "success",
+      "failureReason": "",
+      "isDemo": false,
+      "createdAt": "2026-06-15T15:49:13.755Z",
+      "updatedAt": "2026-06-15T15:49:13.755Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a301ef97b04514a3ed9131d",
+      "id": "SCAN-1781538553757-m3q0j",
+      "student_id": "STU003",
+      "student_name": "Veerendra",
+      "register_no": "24B11DS068",
+      "action": "board",
+      "scanMode": "",
+      "tripType": "",
+      "latitude": 0,
+      "longitude": 0,
+      "smsStatus": "",
+      "bus_number": "BUS-12",
+      "driver_id": "",
+      "trip_id": "",
+      "time": "09:19 PM",
+      "date": "2026-06-15",
+      "result": "success",
+      "failureReason": "",
+      "isDemo": false,
+      "createdAt": "2026-06-15T15:49:13.757Z",
+      "updatedAt": "2026-06-15T15:49:13.757Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a301f067b04514a3ed91322",
+      "id": "SCAN-1781538566061-qodli",
+      "student_id": "STU003",
+      "student_name": "Veerendra",
+      "register_no": "24B11DS068",
+      "action": "dropoff",
+      "scanMode": "",
+      "tripType": "",
+      "latitude": 0,
+      "longitude": 0,
+      "smsStatus": "",
+      "bus_number": "BUS-12",
+      "driver_id": "",
+      "trip_id": "",
+      "time": "09:19 PM",
+      "date": "2026-06-15",
+      "result": "success",
+      "failureReason": "",
+      "isDemo": false,
+      "createdAt": "2026-06-15T15:49:26.062Z",
+      "updatedAt": "2026-06-15T15:49:26.062Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a301f067b04514a3ed91323",
+      "id": "SCAN-1781538566063-idv77",
+      "student_id": "STU003",
+      "student_name": "Veerendra",
+      "register_no": "24B11DS068",
+      "action": "board",
+      "scanMode": "",
+      "tripType": "",
+      "latitude": 0,
+      "longitude": 0,
+      "smsStatus": "",
+      "bus_number": "BUS-12",
+      "driver_id": "",
+      "trip_id": "",
+      "time": "09:19 PM",
+      "date": "2026-06-15",
+      "result": "success",
+      "failureReason": "",
+      "isDemo": false,
+      "createdAt": "2026-06-15T15:49:26.064Z",
+      "updatedAt": "2026-06-15T15:49:26.064Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a30f9eb610f4dcb272cb4ab",
+      "id": "SCAN-1781594603240",
+      "student_id": "STU003",
+      "student_name": "Veerendra",
+      "register_no": "24B11DS068",
+      "action": "board",
+      "scanMode": "",
+      "tripType": "",
+      "latitude": 0,
+      "longitude": 0,
+      "smsStatus": "",
+      "bus_number": "BUS-12",
+      "driver_id": "",
+      "trip_id": "",
+      "time": "12:53 PM",
+      "date": "2026-06-16",
+      "result": "success",
+      "failureReason": "",
+      "isDemo": false,
+      "createdAt": "2026-06-16T07:23:23.434Z",
+      "updatedAt": "2026-06-16T07:23:23.434Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a30fa0faa83836e84498265",
+      "id": "SCAN-1781594639855",
+      "student_id": "STU003",
+      "student_name": "Veerendra",
+      "register_no": "24B11DS068",
+      "action": "dropoff",
+      "scanMode": "",
+      "tripType": "",
+      "latitude": 0,
+      "longitude": 0,
+      "smsStatus": "",
+      "bus_number": "BUS-12",
+      "driver_id": "",
+      "trip_id": "",
+      "time": "12:53 PM",
+      "date": "2026-06-16",
+      "result": "success",
+      "failureReason": "",
+      "isDemo": false,
+      "createdAt": "2026-06-16T07:23:59.901Z",
+      "updatedAt": "2026-06-16T07:23:59.901Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a3147153b95091ba7853832",
+      "id": "SCAN-1781614357917",
+      "student_id": "STU003",
+      "student_name": "Veerendra",
+      "register_no": "24B11DS068",
+      "action": "dropoff",
+      "scanMode": "",
+      "tripType": "",
+      "latitude": 0,
+      "longitude": 0,
+      "smsStatus": "",
+      "bus_number": "BUS-03",
+      "driver_id": "",
+      "trip_id": "",
+      "time": "06:22 PM",
+      "date": "2026-06-16",
+      "result": "success",
+      "failureReason": "",
+      "isDemo": false,
+      "createdAt": "2026-06-16T12:52:37.918Z",
+      "updatedAt": "2026-06-16T12:52:37.918Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a32a8057b6cc12ddcbbbec7",
+      "id": "SCAN-OFFLINE-1781704704894-yygwsesfl",
+      "student_id": "STU003",
+      "student_name": "Veerendra",
+      "register_no": "24B11DS068",
+      "action": "board",
+      "scanMode": "Morning Boarding",
+      "tripType": "Morning Trip",
+      "latitude": 0,
+      "longitude": 0,
+      "smsStatus": "sent",
+      "bus_number": "BUS-03",
+      "driver_id": "",
+      "trip_id": "",
+      "time": "07:28 PM",
+      "date": "2026-06-17",
+      "result": "success",
+      "failureReason": "",
+      "isDemo": false,
+      "createdAt": "2026-06-17T13:58:29.313Z",
+      "updatedAt": "2026-06-17T13:58:30.843Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a36289bf42912e07d3357ba",
+      "id": "SCAN-OFFLINE-1781934234436-o4kiylwv8",
+      "student_id": "STU006",
+      "student_name": "sai",
+      "register_no": "24B11DS001",
+      "action": "board",
+      "scanMode": "Morning Boarding",
+      "tripType": "Morning Trip",
+      "latitude": 17.089979,
+      "longitude": 82.06723,
+      "smsStatus": "failed",
+      "bus_number": "BUS-03",
+      "driver_id": "DRV003",
+      "trip_id": "TRIP-90404548-011b-4160-b596-235f99b2634f",
+      "time": "11:13 AM",
+      "date": "2026-06-20",
+      "result": "success",
+      "failureReason": "",
+      "isDemo": false,
+      "createdAt": "2026-06-20T05:43:55.129Z",
+      "updatedAt": "2026-06-20T05:43:59.555Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a36b87685c7e92564260bcd",
+      "id": "SCAN-OFFLINE-1781971059141-urqu7npr7",
+      "student_id": "STU001",
+      "student_name": "Veera Kumar",
+      "register_no": "22B91A0501",
+      "action": "board",
+      "scanMode": "Morning Boarding",
+      "tripType": "Morning Trip",
+      "latitude": 0,
+      "longitude": 0,
+      "smsStatus": "failed",
+      "bus_number": "BUS-03",
+      "driver_id": "DRV003",
+      "trip_id": "TRIP-90404548-011b-4160-b596-235f99b2634f",
+      "time": "09:27 PM",
+      "date": "2026-06-20",
+      "result": "success",
+      "failureReason": "",
+      "isDemo": false,
+      "createdAt": "2026-06-20T15:57:42.730Z",
+      "updatedAt": "2026-06-20T15:57:50.344Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a36c3d2622dcd8432f8b82d",
+      "id": "SCAN-OFFLINE-1781973970355-ok6m9ofmv",
+      "student_id": "STU008",
+      "student_name": "veer",
+      "register_no": "24B11DS007",
+      "action": "board",
+      "scanMode": "Morning Boarding",
+      "tripType": "Morning Trip",
+      "latitude": 17.084841,
+      "longitude": 82.049782,
+      "smsStatus": "failed",
+      "bus_number": "BUS-03",
+      "driver_id": "DRV003",
+      "trip_id": "TRIP-90404548-011b-4160-b596-235f99b2634f",
+      "time": "10:16 PM",
+      "date": "2026-06-20",
+      "result": "success",
+      "failureReason": "",
+      "isDemo": false,
+      "createdAt": "2026-06-20T16:46:10.901Z",
+      "updatedAt": "2026-06-20T16:46:16.585Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a36c5e9622dcd8432f8b836",
+      "id": "SCAN-OFFLINE-1781974503812-3ixbh8s6c",
+      "student_id": "STU008",
+      "student_name": "veer",
+      "register_no": "24B11DS007",
+      "action": "dropoff",
+      "scanMode": "College Arrival",
+      "tripType": "Morning Trip",
+      "latitude": 17.084946,
+      "longitude": 82.050072,
+      "smsStatus": "failed",
+      "bus_number": "BUS-03",
+      "driver_id": "DRV003",
+      "trip_id": "TRIP-90404548-011b-4160-b596-235f99b2634f",
+      "time": "10:25 PM",
+      "date": "2026-06-20",
+      "result": "success",
+      "failureReason": "",
+      "isDemo": false,
+      "createdAt": "2026-06-20T16:55:05.807Z",
+      "updatedAt": "2026-06-20T16:55:11.374Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a36c881622dcd8432f8b840",
+      "id": "SCAN-OFFLINE-1781975169639-9w2j72mza",
+      "student_id": "STU009",
+      "student_name": "balu",
+      "register_no": "24B11DS008",
+      "action": "board",
+      "scanMode": "Morning Boarding",
+      "tripType": "Morning Trip",
+      "latitude": 17.084841,
+      "longitude": 82.049782,
+      "smsStatus": "failed",
+      "bus_number": "BUS-03",
+      "driver_id": "DRV003",
+      "trip_id": "TRIP-90404548-011b-4160-b596-235f99b2634f",
+      "time": "10:36 PM",
+      "date": "2026-06-20",
+      "result": "success",
+      "failureReason": "",
+      "isDemo": false,
+      "createdAt": "2026-06-20T17:06:09.880Z",
+      "updatedAt": "2026-06-20T17:06:14.618Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a36c914622dcd8432f8b846",
+      "id": "SCAN-OFFLINE-1781975311966-9hg9imu1c",
+      "student_id": "STU009",
+      "student_name": "balu",
+      "register_no": "24B11DS008",
+      "action": "dropoff",
+      "scanMode": "College Arrival",
+      "tripType": "Morning Trip",
+      "latitude": 17.084841,
+      "longitude": 82.049782,
+      "smsStatus": "failed",
+      "bus_number": "BUS-03",
+      "driver_id": "DRV003",
+      "trip_id": "TRIP-90404548-011b-4160-b596-235f99b2634f",
+      "time": "10:38 PM",
+      "date": "2026-06-20",
+      "result": "success",
+      "failureReason": "",
+      "isDemo": false,
+      "createdAt": "2026-06-20T17:08:36.866Z",
+      "updatedAt": "2026-06-20T17:08:42.867Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a36d8bf715e64011809402d",
+      "id": "SCAN-OFFLINE-1781979320944-l3etyew1k",
+      "student_id": "STU007",
+      "student_name": "madhan",
+      "register_no": "24B11DS002",
+      "action": "board",
+      "scanMode": "Morning Boarding",
+      "tripType": "Morning Trip",
+      "latitude": 17.089939,
+      "longitude": 82.067337,
+      "smsStatus": "failed",
+      "bus_number": "BUS-03",
+      "driver_id": "DRV003",
+      "trip_id": "TRIP-90404548-011b-4160-b596-235f99b2634f",
+      "time": "11:45 PM",
+      "date": "2026-06-20",
+      "result": "success",
+      "failureReason": "",
+      "isDemo": false,
+      "createdAt": "2026-06-20T18:15:27.453Z",
+      "updatedAt": "2026-06-20T18:15:33.969Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a36dc10715e640118094033",
+      "id": "SCAN-OFFLINE-1781980175619-avyd2hvlm",
+      "student_id": "STU010",
+      "student_name": "YOGI",
+      "register_no": "24B11CS001",
+      "action": "board",
+      "scanMode": "Morning Boarding",
+      "tripType": "Morning Trip",
+      "latitude": 17.089939,
+      "longitude": 82.067337,
+      "smsStatus": "sent",
+      "bus_number": "BUS-03",
+      "driver_id": "DRV003",
+      "trip_id": "TRIP-90404548-011b-4160-b596-235f99b2634f",
+      "time": "11:59 PM",
+      "date": "2026-06-20",
+      "result": "success",
+      "failureReason": "",
+      "isDemo": false,
+      "createdAt": "2026-06-20T18:29:36.367Z",
+      "updatedAt": "2026-06-20T18:29:37.601Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a38ba42f264a4c5db2a1fd1",
+      "id": "SCAN-OFFLINE-1782102592807-le6bum2hc",
+      "student_id": "STU004",
+      "student_name": "A.V.S.Manikanta",
+      "register_no": "24B11DS005",
+      "action": "board",
+      "scanMode": "Morning Boarding",
+      "tripType": "Morning Trip",
+      "latitude": 17.089779940001513,
+      "longitude": 82.06707086217165,
+      "smsStatus": "failed",
+      "bus_number": "BUS-09",
+      "driver_id": "DRV004",
+      "trip_id": "TRIP-ab9b7437-5901-4110-a9f7-4110199769e5",
+      "time": "09:59 AM",
+      "date": "2026-06-22",
+      "result": "success",
+      "failureReason": "",
+      "isDemo": false,
+      "createdAt": "2026-06-22T04:29:54.166Z",
+      "updatedAt": "2026-06-22T04:29:59.856Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a38bc3cf264a4c5db2a1fe1",
+      "id": "SCAN-OFFLINE-1782103096454-hozi0qukg",
+      "student_id": "STU012",
+      "student_name": "Viswa sir",
+      "register_no": "24B11DS078",
+      "action": "board",
+      "scanMode": "Morning Boarding",
+      "tripType": "Morning Trip",
+      "latitude": 0,
+      "longitude": 0,
+      "smsStatus": "sent",
+      "bus_number": "BUS-09",
+      "driver_id": "DRV004",
+      "trip_id": "TRIP-ab9b7437-5901-4110-a9f7-4110199769e5",
+      "time": "10:08 AM",
+      "date": "2026-06-22",
+      "result": "success",
+      "failureReason": "",
+      "isDemo": false,
+      "createdAt": "2026-06-22T04:38:20.411Z",
+      "updatedAt": "2026-06-22T04:38:22.633Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a391217c601010963aafd75",
+      "id": "SCAN-1782125079603",
+      "student_id": "STU003",
+      "student_name": "Veerendra",
+      "register_no": "24B11DS068",
+      "action": "board",
+      "scanMode": "",
+      "tripType": "",
+      "latitude": 0,
+      "longitude": 0,
+      "smsStatus": "",
+      "bus_number": "BUS-03",
+      "driver_id": "",
+      "trip_id": "",
+      "time": "04:14 PM",
+      "date": "2026-06-22",
+      "result": "success",
+      "failureReason": "",
+      "isDemo": false,
+      "createdAt": "2026-06-22T10:44:39.637Z",
+      "updatedAt": "2026-06-22T10:44:39.637Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a391217c601010963aafd76",
+      "id": "SCAN-1782125079640",
+      "student_id": "STU003",
+      "student_name": "Veerendra",
+      "register_no": "24B11DS068",
+      "action": "board",
+      "scanMode": "",
+      "tripType": "",
+      "latitude": 0,
+      "longitude": 0,
+      "smsStatus": "",
+      "bus_number": "BUS-03",
+      "driver_id": "",
+      "trip_id": "",
+      "time": "04:14 PM",
+      "date": "2026-06-22",
+      "result": "success",
+      "failureReason": "",
+      "isDemo": false,
+      "createdAt": "2026-06-22T10:44:39.641Z",
+      "updatedAt": "2026-06-22T10:44:39.641Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a391219c601010963aafd7b",
+      "id": "SCAN-1782125081320",
+      "student_id": "STU003",
+      "student_name": "Veerendra",
+      "register_no": "24B11DS068",
+      "action": "board",
+      "scanMode": "",
+      "tripType": "",
+      "latitude": 0,
+      "longitude": 0,
+      "smsStatus": "",
+      "bus_number": "BUS-03",
+      "driver_id": "",
+      "trip_id": "",
+      "time": "04:14 PM",
+      "date": "2026-06-22",
+      "result": "success",
+      "failureReason": "",
+      "isDemo": false,
+      "createdAt": "2026-06-22T10:44:41.321Z",
+      "updatedAt": "2026-06-22T10:44:41.321Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a391219c601010963aafd7c",
+      "id": "SCAN-1782125081323",
+      "student_id": "STU003",
+      "student_name": "Veerendra",
+      "register_no": "24B11DS068",
+      "action": "board",
+      "scanMode": "",
+      "tripType": "",
+      "latitude": 0,
+      "longitude": 0,
+      "smsStatus": "",
+      "bus_number": "BUS-03",
+      "driver_id": "",
+      "trip_id": "",
+      "time": "04:14 PM",
+      "date": "2026-06-22",
+      "result": "success",
+      "failureReason": "",
+      "isDemo": false,
+      "createdAt": "2026-06-22T10:44:41.324Z",
+      "updatedAt": "2026-06-22T10:44:41.324Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a39121ac601010963aafd81",
+      "id": "SCAN-1782125082378",
+      "student_id": "STU003",
+      "student_name": "Veerendra",
+      "register_no": "24B11DS068",
+      "action": "board",
+      "scanMode": "",
+      "tripType": "",
+      "latitude": 0,
+      "longitude": 0,
+      "smsStatus": "",
+      "bus_number": "BUS-03",
+      "driver_id": "",
+      "trip_id": "",
+      "time": "04:14 PM",
+      "date": "2026-06-22",
+      "result": "success",
+      "failureReason": "",
+      "isDemo": false,
+      "createdAt": "2026-06-22T10:44:42.380Z",
+      "updatedAt": "2026-06-22T10:44:42.380Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a39121ac601010963aafd83",
+      "id": "SCAN-1782125082503",
+      "student_id": "STU003",
+      "student_name": "Veerendra",
+      "register_no": "24B11DS068",
+      "action": "board",
+      "scanMode": "",
+      "tripType": "",
+      "latitude": 0,
+      "longitude": 0,
+      "smsStatus": "",
+      "bus_number": "BUS-03",
+      "driver_id": "",
+      "trip_id": "",
+      "time": "04:14 PM",
+      "date": "2026-06-22",
+      "result": "success",
+      "failureReason": "",
+      "isDemo": false,
+      "createdAt": "2026-06-22T10:44:42.504Z",
+      "updatedAt": "2026-06-22T10:44:42.504Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a39121bc601010963aafd8e",
+      "id": "SCAN-1782125083333",
+      "student_id": "STU003",
+      "student_name": "Veerendra",
+      "register_no": "24B11DS068",
+      "action": "board",
+      "scanMode": "",
+      "tripType": "",
+      "latitude": 0,
+      "longitude": 0,
+      "smsStatus": "",
+      "bus_number": "BUS-03",
+      "driver_id": "",
+      "trip_id": "",
+      "time": "04:14 PM",
+      "date": "2026-06-22",
+      "result": "success",
+      "failureReason": "",
+      "isDemo": false,
+      "createdAt": "2026-06-22T10:44:43.335Z",
+      "updatedAt": "2026-06-22T10:44:43.335Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a39121bc601010963aafd90",
+      "id": "SCAN-1782125083430",
+      "student_id": "STU003",
+      "student_name": "Veerendra",
+      "register_no": "24B11DS068",
+      "action": "board",
+      "scanMode": "",
+      "tripType": "",
+      "latitude": 0,
+      "longitude": 0,
+      "smsStatus": "",
+      "bus_number": "BUS-03",
+      "driver_id": "",
+      "trip_id": "",
+      "time": "04:14 PM",
+      "date": "2026-06-22",
+      "result": "success",
+      "failureReason": "",
+      "isDemo": false,
+      "createdAt": "2026-06-22T10:44:43.431Z",
+      "updatedAt": "2026-06-22T10:44:43.431Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a39121cc601010963aafd94",
+      "id": "SCAN-1782125084249",
+      "student_id": "STU003",
+      "student_name": "Veerendra",
+      "register_no": "24B11DS068",
+      "action": "board",
+      "scanMode": "",
+      "tripType": "",
+      "latitude": 0,
+      "longitude": 0,
+      "smsStatus": "",
+      "bus_number": "BUS-03",
+      "driver_id": "",
+      "trip_id": "",
+      "time": "04:14 PM",
+      "date": "2026-06-22",
+      "result": "success",
+      "failureReason": "",
+      "isDemo": false,
+      "createdAt": "2026-06-22T10:44:44.250Z",
+      "updatedAt": "2026-06-22T10:44:44.250Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a39121cc601010963aafd95",
+      "id": "SCAN-1782125084253",
+      "student_id": "STU003",
+      "student_name": "Veerendra",
+      "register_no": "24B11DS068",
+      "action": "board",
+      "scanMode": "",
+      "tripType": "",
+      "latitude": 0,
+      "longitude": 0,
+      "smsStatus": "",
+      "bus_number": "BUS-03",
+      "driver_id": "",
+      "trip_id": "",
+      "time": "04:14 PM",
+      "date": "2026-06-22",
+      "result": "success",
+      "failureReason": "",
+      "isDemo": false,
+      "createdAt": "2026-06-22T10:44:44.254Z",
+      "updatedAt": "2026-06-22T10:44:44.254Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a39121cc601010963aafd9a",
+      "id": "SCAN-1782125084982",
+      "student_id": "STU004",
+      "student_name": "A.V.S.Manikanta",
+      "register_no": "24B11DS005",
+      "action": "board",
+      "scanMode": "",
+      "tripType": "",
+      "latitude": 0,
+      "longitude": 0,
+      "smsStatus": "",
+      "bus_number": "BUS-03",
+      "driver_id": "",
+      "trip_id": "",
+      "time": "04:14 PM",
+      "date": "2026-06-22",
+      "result": "success",
+      "failureReason": "",
+      "isDemo": false,
+      "createdAt": "2026-06-22T10:44:44.983Z",
+      "updatedAt": "2026-06-22T10:44:44.983Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a39121dc601010963aafd9b",
+      "id": "SCAN-1782125085025",
+      "student_id": "STU004",
+      "student_name": "A.V.S.Manikanta",
+      "register_no": "24B11DS005",
+      "action": "board",
+      "scanMode": "",
+      "tripType": "",
+      "latitude": 0,
+      "longitude": 0,
+      "smsStatus": "",
+      "bus_number": "BUS-03",
+      "driver_id": "",
+      "trip_id": "",
+      "time": "04:14 PM",
+      "date": "2026-06-22",
+      "result": "success",
+      "failureReason": "",
+      "isDemo": false,
+      "createdAt": "2026-06-22T10:44:45.026Z",
+      "updatedAt": "2026-06-22T10:44:45.026Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a39121dc601010963aafda0",
+      "id": "SCAN-1782125085671",
+      "student_id": "STU004",
+      "student_name": "A.V.S.Manikanta",
+      "register_no": "24B11DS005",
+      "action": "board",
+      "scanMode": "",
+      "tripType": "",
+      "latitude": 0,
+      "longitude": 0,
+      "smsStatus": "",
+      "bus_number": "BUS-03",
+      "driver_id": "",
+      "trip_id": "",
+      "time": "04:14 PM",
+      "date": "2026-06-22",
+      "result": "success",
+      "failureReason": "",
+      "isDemo": false,
+      "createdAt": "2026-06-22T10:44:45.672Z",
+      "updatedAt": "2026-06-22T10:44:45.672Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a39121ec601010963aafda3",
+      "id": "SCAN-1782125086026",
+      "student_id": "STU004",
+      "student_name": "A.V.S.Manikanta",
+      "register_no": "24B11DS005",
+      "action": "board",
+      "scanMode": "",
+      "tripType": "",
+      "latitude": 0,
+      "longitude": 0,
+      "smsStatus": "",
+      "bus_number": "BUS-03",
+      "driver_id": "",
+      "trip_id": "",
+      "time": "04:14 PM",
+      "date": "2026-06-22",
+      "result": "success",
+      "failureReason": "",
+      "isDemo": false,
+      "createdAt": "2026-06-22T10:44:46.033Z",
+      "updatedAt": "2026-06-22T10:44:46.033Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a39121ec601010963aafda6",
+      "id": "SCAN-1782125086777",
+      "student_id": "STU007",
+      "student_name": "madhan",
+      "register_no": "24B11DS002",
+      "action": "board",
+      "scanMode": "",
+      "tripType": "",
+      "latitude": 0,
+      "longitude": 0,
+      "smsStatus": "",
+      "bus_number": "BUS-03",
+      "driver_id": "",
+      "trip_id": "",
+      "time": "04:14 PM",
+      "date": "2026-06-22",
+      "result": "success",
+      "failureReason": "",
+      "isDemo": false,
+      "createdAt": "2026-06-22T10:44:46.778Z",
+      "updatedAt": "2026-06-22T10:44:46.778Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a39121fc601010963aafda9",
+      "id": "SCAN-1782125087108",
+      "student_id": "STU007",
+      "student_name": "madhan",
+      "register_no": "24B11DS002",
+      "action": "board",
+      "scanMode": "",
+      "tripType": "",
+      "latitude": 0,
+      "longitude": 0,
+      "smsStatus": "",
+      "bus_number": "BUS-03",
+      "driver_id": "",
+      "trip_id": "",
+      "time": "04:14 PM",
+      "date": "2026-06-22",
+      "result": "success",
+      "failureReason": "",
+      "isDemo": false,
+      "createdAt": "2026-06-22T10:44:47.109Z",
+      "updatedAt": "2026-06-22T10:44:47.109Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a391223c601010963aafdac",
+      "id": "SCAN-1782125091336",
+      "student_id": "STU007",
+      "student_name": "madhan",
+      "register_no": "24B11DS002",
+      "action": "board",
+      "scanMode": "",
+      "tripType": "",
+      "latitude": 0,
+      "longitude": 0,
+      "smsStatus": "",
+      "bus_number": "BUS-03",
+      "driver_id": "",
+      "trip_id": "",
+      "time": "04:14 PM",
+      "date": "2026-06-22",
+      "result": "success",
+      "failureReason": "",
+      "isDemo": false,
+      "createdAt": "2026-06-22T10:44:51.337Z",
+      "updatedAt": "2026-06-22T10:44:51.337Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a391223c601010963aafdaf",
+      "id": "SCAN-1782125091426",
+      "student_id": "STU007",
+      "student_name": "madhan",
+      "register_no": "24B11DS002",
+      "action": "board",
+      "scanMode": "",
+      "tripType": "",
+      "latitude": 0,
+      "longitude": 0,
+      "smsStatus": "",
+      "bus_number": "BUS-03",
+      "driver_id": "",
+      "trip_id": "",
+      "time": "04:14 PM",
+      "date": "2026-06-22",
+      "result": "success",
+      "failureReason": "",
+      "isDemo": false,
+      "createdAt": "2026-06-22T10:44:51.428Z",
+      "updatedAt": "2026-06-22T10:44:51.428Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a391228c601010963aafdb2",
+      "id": "SCAN-1782125096063",
+      "student_id": "STU007",
+      "student_name": "madhan",
+      "register_no": "24B11DS002",
+      "action": "board",
+      "scanMode": "",
+      "tripType": "",
+      "latitude": 0,
+      "longitude": 0,
+      "smsStatus": "",
+      "bus_number": "BUS-03",
+      "driver_id": "",
+      "trip_id": "",
+      "time": "04:14 PM",
+      "date": "2026-06-22",
+      "result": "success",
+      "failureReason": "",
+      "isDemo": false,
+      "createdAt": "2026-06-22T10:44:56.064Z",
+      "updatedAt": "2026-06-22T10:44:56.064Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a391228c601010963aafdb5",
+      "id": "SCAN-1782125096406",
+      "student_id": "STU007",
+      "student_name": "madhan",
+      "register_no": "24B11DS002",
+      "action": "board",
+      "scanMode": "",
+      "tripType": "",
+      "latitude": 0,
+      "longitude": 0,
+      "smsStatus": "",
+      "bus_number": "BUS-03",
+      "driver_id": "",
+      "trip_id": "",
+      "time": "04:14 PM",
+      "date": "2026-06-22",
+      "result": "success",
+      "failureReason": "",
+      "isDemo": false,
+      "createdAt": "2026-06-22T10:44:56.407Z",
+      "updatedAt": "2026-06-22T10:44:56.407Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a39122dc601010963aafdb8",
+      "id": "SCAN-1782125101151",
+      "student_id": "STU007",
+      "student_name": "madhan",
+      "register_no": "24B11DS002",
+      "action": "board",
+      "scanMode": "",
+      "tripType": "",
+      "latitude": 0,
+      "longitude": 0,
+      "smsStatus": "",
+      "bus_number": "BUS-03",
+      "driver_id": "",
+      "trip_id": "",
+      "time": "04:15 PM",
+      "date": "2026-06-22",
+      "result": "success",
+      "failureReason": "",
+      "isDemo": false,
+      "createdAt": "2026-06-22T10:45:01.154Z",
+      "updatedAt": "2026-06-22T10:45:01.154Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a39122ec601010963aafdbb",
+      "id": "SCAN-1782125102143",
+      "student_id": "STU007",
+      "student_name": "madhan",
+      "register_no": "24B11DS002",
+      "action": "board",
+      "scanMode": "",
+      "tripType": "",
+      "latitude": 0,
+      "longitude": 0,
+      "smsStatus": "",
+      "bus_number": "BUS-03",
+      "driver_id": "",
+      "trip_id": "",
+      "time": "04:15 PM",
+      "date": "2026-06-22",
+      "result": "success",
+      "failureReason": "",
+      "isDemo": false,
+      "createdAt": "2026-06-22T10:45:02.145Z",
+      "updatedAt": "2026-06-22T10:45:02.145Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a391231c601010963aafdbe",
+      "id": "SCAN-1782125105998",
+      "student_id": "STU006",
+      "student_name": "sai",
+      "register_no": "24B11DS001",
+      "action": "board",
+      "scanMode": "",
+      "tripType": "",
+      "latitude": 0,
+      "longitude": 0,
+      "smsStatus": "",
+      "bus_number": "BUS-03",
+      "driver_id": "",
+      "trip_id": "",
+      "time": "04:15 PM",
+      "date": "2026-06-22",
+      "result": "success",
+      "failureReason": "",
+      "isDemo": false,
+      "createdAt": "2026-06-22T10:45:05.999Z",
+      "updatedAt": "2026-06-22T10:45:05.999Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a391232c601010963aafdc1",
+      "id": "SCAN-1782125106630",
+      "student_id": "STU006",
+      "student_name": "sai",
+      "register_no": "24B11DS001",
+      "action": "board",
+      "scanMode": "",
+      "tripType": "",
+      "latitude": 0,
+      "longitude": 0,
+      "smsStatus": "",
+      "bus_number": "BUS-03",
+      "driver_id": "",
+      "trip_id": "",
+      "time": "04:15 PM",
+      "date": "2026-06-22",
+      "result": "success",
+      "failureReason": "",
+      "isDemo": false,
+      "createdAt": "2026-06-22T10:45:06.631Z",
+      "updatedAt": "2026-06-22T10:45:06.631Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a391233c601010963aafdc4",
+      "id": "SCAN-1782125107090",
+      "student_id": "STU006",
+      "student_name": "sai",
+      "register_no": "24B11DS001",
+      "action": "board",
+      "scanMode": "",
+      "tripType": "",
+      "latitude": 0,
+      "longitude": 0,
+      "smsStatus": "",
+      "bus_number": "BUS-03",
+      "driver_id": "",
+      "trip_id": "",
+      "time": "04:15 PM",
+      "date": "2026-06-22",
+      "result": "success",
+      "failureReason": "",
+      "isDemo": false,
+      "createdAt": "2026-06-22T10:45:07.091Z",
+      "updatedAt": "2026-06-22T10:45:07.091Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a391233c601010963aafdc7",
+      "id": "SCAN-1782125107402",
+      "student_id": "STU006",
+      "student_name": "sai",
+      "register_no": "24B11DS001",
+      "action": "board",
+      "scanMode": "",
+      "tripType": "",
+      "latitude": 0,
+      "longitude": 0,
+      "smsStatus": "",
+      "bus_number": "BUS-03",
+      "driver_id": "",
+      "trip_id": "",
+      "time": "04:15 PM",
+      "date": "2026-06-22",
+      "result": "success",
+      "failureReason": "",
+      "isDemo": false,
+      "createdAt": "2026-06-22T10:45:07.403Z",
+      "updatedAt": "2026-06-22T10:45:07.403Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a391233c601010963aafdca",
+      "id": "SCAN-1782125107924",
+      "student_id": "STU006",
+      "student_name": "sai",
+      "register_no": "24B11DS001",
+      "action": "board",
+      "scanMode": "",
+      "tripType": "",
+      "latitude": 0,
+      "longitude": 0,
+      "smsStatus": "",
+      "bus_number": "BUS-03",
+      "driver_id": "",
+      "trip_id": "",
+      "time": "04:15 PM",
+      "date": "2026-06-22",
+      "result": "success",
+      "failureReason": "",
+      "isDemo": false,
+      "createdAt": "2026-06-22T10:45:07.925Z",
+      "updatedAt": "2026-06-22T10:45:07.925Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a391234c601010963aafdcd",
+      "id": "SCAN-1782125108205",
+      "student_id": "STU006",
+      "student_name": "sai",
+      "register_no": "24B11DS001",
+      "action": "board",
+      "scanMode": "",
+      "tripType": "",
+      "latitude": 0,
+      "longitude": 0,
+      "smsStatus": "",
+      "bus_number": "BUS-03",
+      "driver_id": "",
+      "trip_id": "",
+      "time": "04:15 PM",
+      "date": "2026-06-22",
+      "result": "success",
+      "failureReason": "",
+      "isDemo": false,
+      "createdAt": "2026-06-22T10:45:08.206Z",
+      "updatedAt": "2026-06-22T10:45:08.206Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a391238c601010963aafdd8",
+      "id": "SCAN-1782125112086",
+      "student_id": "STU006",
+      "student_name": "sai",
+      "register_no": "24B11DS001",
+      "action": "board",
+      "scanMode": "",
+      "tripType": "",
+      "latitude": 0,
+      "longitude": 0,
+      "smsStatus": "",
+      "bus_number": "BUS-03",
+      "driver_id": "",
+      "trip_id": "",
+      "time": "04:15 PM",
+      "date": "2026-06-22",
+      "result": "success",
+      "failureReason": "",
+      "isDemo": false,
+      "createdAt": "2026-06-22T10:45:12.087Z",
+      "updatedAt": "2026-06-22T10:45:12.087Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a39123cc601010963aafddb",
+      "id": "SCAN-1782125116413",
+      "student_id": "STU006",
+      "student_name": "sai",
+      "register_no": "24B11DS001",
+      "action": "board",
+      "scanMode": "",
+      "tripType": "",
+      "latitude": 0,
+      "longitude": 0,
+      "smsStatus": "",
+      "bus_number": "BUS-03",
+      "driver_id": "",
+      "trip_id": "",
+      "time": "04:15 PM",
+      "date": "2026-06-22",
+      "result": "success",
+      "failureReason": "",
+      "isDemo": false,
+      "createdAt": "2026-06-22T10:45:16.414Z",
+      "updatedAt": "2026-06-22T10:45:16.414Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a3912a7c601010963aafde3",
+      "id": "SCAN-1782125223917",
+      "student_id": "STU007",
+      "student_name": "madhan",
+      "register_no": "24B11DS002",
+      "action": "board",
+      "scanMode": "",
+      "tripType": "",
+      "latitude": 0,
+      "longitude": 0,
+      "smsStatus": "",
+      "bus_number": "BUS-03",
+      "driver_id": "",
+      "trip_id": "",
+      "time": "04:17 PM",
+      "date": "2026-06-22",
+      "result": "success",
+      "failureReason": "",
+      "isDemo": false,
+      "createdAt": "2026-06-22T10:47:03.918Z",
+      "updatedAt": "2026-06-22T10:47:03.918Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a3912a9c601010963aafde6",
+      "id": "SCAN-1782125225522",
+      "student_id": "STU007",
+      "student_name": "madhan",
+      "register_no": "24B11DS002",
+      "action": "board",
+      "scanMode": "",
+      "tripType": "",
+      "latitude": 0,
+      "longitude": 0,
+      "smsStatus": "",
+      "bus_number": "BUS-03",
+      "driver_id": "",
+      "trip_id": "",
+      "time": "04:17 PM",
+      "date": "2026-06-22",
+      "result": "success",
+      "failureReason": "",
+      "isDemo": false,
+      "createdAt": "2026-06-22T10:47:05.523Z",
+      "updatedAt": "2026-06-22T10:47:05.523Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a3912aac601010963aafde9",
+      "id": "SCAN-1782125226258",
+      "student_id": "STU007",
+      "student_name": "madhan",
+      "register_no": "24B11DS002",
+      "action": "board",
+      "scanMode": "",
+      "tripType": "",
+      "latitude": 0,
+      "longitude": 0,
+      "smsStatus": "",
+      "bus_number": "BUS-03",
+      "driver_id": "",
+      "trip_id": "",
+      "time": "04:17 PM",
+      "date": "2026-06-22",
+      "result": "success",
+      "failureReason": "",
+      "isDemo": false,
+      "createdAt": "2026-06-22T10:47:06.258Z",
+      "updatedAt": "2026-06-22T10:47:06.258Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a3912aac601010963aafdec",
+      "id": "SCAN-1782125226472",
+      "student_id": "STU007",
+      "student_name": "madhan",
+      "register_no": "24B11DS002",
+      "action": "board",
+      "scanMode": "",
+      "tripType": "",
+      "latitude": 0,
+      "longitude": 0,
+      "smsStatus": "",
+      "bus_number": "BUS-03",
+      "driver_id": "",
+      "trip_id": "",
+      "time": "04:17 PM",
+      "date": "2026-06-22",
+      "result": "success",
+      "failureReason": "",
+      "isDemo": false,
+      "createdAt": "2026-06-22T10:47:06.473Z",
+      "updatedAt": "2026-06-22T10:47:06.473Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a3912acc601010963aafdef",
+      "id": "SCAN-1782125228177",
+      "student_id": "STU007",
+      "student_name": "madhan",
+      "register_no": "24B11DS002",
+      "action": "board",
+      "scanMode": "",
+      "tripType": "",
+      "latitude": 0,
+      "longitude": 0,
+      "smsStatus": "",
+      "bus_number": "BUS-03",
+      "driver_id": "",
+      "trip_id": "",
+      "time": "04:17 PM",
+      "date": "2026-06-22",
+      "result": "success",
+      "failureReason": "",
+      "isDemo": false,
+      "createdAt": "2026-06-22T10:47:08.178Z",
+      "updatedAt": "2026-06-22T10:47:08.178Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a3912acc601010963aafdf2",
+      "id": "SCAN-1782125228413",
+      "student_id": "STU007",
+      "student_name": "madhan",
+      "register_no": "24B11DS002",
+      "action": "board",
+      "scanMode": "",
+      "tripType": "",
+      "latitude": 0,
+      "longitude": 0,
+      "smsStatus": "",
+      "bus_number": "BUS-03",
+      "driver_id": "",
+      "trip_id": "",
+      "time": "04:17 PM",
+      "date": "2026-06-22",
+      "result": "success",
+      "failureReason": "",
+      "isDemo": false,
+      "createdAt": "2026-06-22T10:47:08.414Z",
+      "updatedAt": "2026-06-22T10:47:08.414Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a3912c7c601010963aafdf5",
+      "id": "SCAN-1782125255706",
+      "student_id": "STU010",
+      "student_name": "YOGI",
+      "register_no": "24B11CS001",
+      "action": "board",
+      "scanMode": "",
+      "tripType": "",
+      "latitude": 0,
+      "longitude": 0,
+      "smsStatus": "",
+      "bus_number": "BUS-03",
+      "driver_id": "",
+      "trip_id": "",
+      "time": "04:17 PM",
+      "date": "2026-06-22",
+      "result": "success",
+      "failureReason": "",
+      "isDemo": false,
+      "createdAt": "2026-06-22T10:47:35.708Z",
+      "updatedAt": "2026-06-22T10:47:35.708Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a3912efc601010963aafdf8",
+      "id": "SCAN-1782125295305",
+      "student_id": "STU012",
+      "student_name": "Viswa sir",
+      "register_no": "24B11DS078",
+      "action": "board",
+      "scanMode": "",
+      "tripType": "",
+      "latitude": 0,
+      "longitude": 0,
+      "smsStatus": "",
+      "bus_number": "BUS-03",
+      "driver_id": "",
+      "trip_id": "",
+      "time": "04:18 PM",
+      "date": "2026-06-22",
+      "result": "success",
+      "failureReason": "",
+      "isDemo": false,
+      "createdAt": "2026-06-22T10:48:15.307Z",
+      "updatedAt": "2026-06-22T10:48:15.307Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a3912f3c601010963aafdfb",
+      "id": "SCAN-1782125299389",
+      "student_id": "STU012",
+      "student_name": "Viswa sir",
+      "register_no": "24B11DS078",
+      "action": "board",
+      "scanMode": "",
+      "tripType": "",
+      "latitude": 0,
+      "longitude": 0,
+      "smsStatus": "",
+      "bus_number": "BUS-03",
+      "driver_id": "",
+      "trip_id": "",
+      "time": "04:18 PM",
+      "date": "2026-06-22",
+      "result": "success",
+      "failureReason": "",
+      "isDemo": false,
+      "createdAt": "2026-06-22T10:48:19.390Z",
+      "updatedAt": "2026-06-22T10:48:19.390Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a39131ec601010963aafdfe",
+      "id": "SCAN-1782125342257",
+      "student_id": "STU009",
+      "student_name": "balu",
+      "register_no": "24B11DS008",
+      "action": "dropoff",
+      "scanMode": "",
+      "tripType": "",
+      "latitude": 0,
+      "longitude": 0,
+      "smsStatus": "",
+      "bus_number": "BUS-03",
+      "driver_id": "",
+      "trip_id": "",
+      "time": "04:19 PM",
+      "date": "2026-06-22",
+      "result": "success",
+      "failureReason": "",
+      "isDemo": false,
+      "createdAt": "2026-06-22T10:49:02.259Z",
+      "updatedAt": "2026-06-22T10:49:02.259Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a39138cc601010963aafe01",
+      "id": "SCAN-1782125452732",
+      "student_id": "STU006",
+      "student_name": "sai",
+      "register_no": "24B11DS001",
+      "action": "board",
+      "scanMode": "",
+      "tripType": "",
+      "latitude": 0,
+      "longitude": 0,
+      "smsStatus": "",
+      "bus_number": "BUS-03",
+      "driver_id": "",
+      "trip_id": "",
+      "time": "04:20 PM",
+      "date": "2026-06-22",
+      "result": "success",
+      "failureReason": "",
+      "isDemo": false,
+      "createdAt": "2026-06-22T10:50:52.733Z",
+      "updatedAt": "2026-06-22T10:50:52.733Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a395ce8a30544606dc82cbc",
+      "id": "SCAN-OFFLINE-1781933044054-50vjnrumn",
+      "student_id": "24B11DS092",
+      "student_name": "Unknown Student",
+      "register_no": "UNKNOWN",
+      "action": "board",
+      "scanMode": "College Boarding",
+      "tripType": "Evening Trip",
+      "latitude": 17.089979,
+      "longitude": 82.06723,
+      "smsStatus": "",
+      "bus_number": "BUS-10",
+      "driver_id": "DRV001",
+      "trip_id": "",
+      "time": "09:33 PM",
+      "date": "2026-06-22",
+      "result": "failed",
+      "failureReason": "Student not found",
+      "isDemo": true,
+      "createdAt": "2026-06-22T16:03:52.950Z",
+      "updatedAt": "2026-06-22T16:03:52.950Z",
+      "__v": 0
+    }
+  ],
+  "busStops": [
+    {
+      "_id": "6a395b89a30544606dc82c24",
+      "stopName": "Kakinada",
+      "latitude": 16.9891,
+      "longitude": 82.2439,
+      "landmark": "Collector Office",
+      "radiusMeters": 250,
+      "active": true,
+      "createdAt": "2026-06-22T15:58:01.421Z",
+      "updatedAt": "2026-06-22T15:58:01.421Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a395b89a30544606dc82c25",
+      "stopName": "Samalkot",
+      "latitude": 17.0504,
+      "longitude": 82.1659,
+      "landmark": "Railway Station",
+      "radiusMeters": 250,
+      "active": true,
+      "createdAt": "2026-06-22T15:58:01.421Z",
+      "updatedAt": "2026-06-22T15:58:01.421Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a395b89a30544606dc82c27",
+      "stopName": "Rajahmundry",
+      "latitude": 17.0005,
+      "longitude": 81.7835,
+      "landmark": "RTC Complex",
+      "radiusMeters": 250,
+      "active": true,
+      "createdAt": "2026-06-22T15:58:01.421Z",
+      "updatedAt": "2026-06-22T15:58:01.421Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a395b89a30544606dc82c26",
+      "stopName": "Peddapuram",
+      "latitude": 17.0757,
+      "longitude": 82.1433,
+      "landmark": "Main Center",
+      "radiusMeters": 250,
+      "active": true,
+      "createdAt": "2026-06-22T15:58:01.421Z",
+      "updatedAt": "2026-06-22T15:58:01.421Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a395b89a30544606dc82c29",
+      "stopName": "Yanam",
+      "latitude": 16.7326,
+      "longitude": 82.2155,
+      "landmark": "Bridge",
+      "radiusMeters": 250,
+      "active": true,
+      "createdAt": "2026-06-22T15:58:01.421Z",
+      "updatedAt": "2026-06-22T15:58:01.421Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a395b89a30544606dc82c28",
+      "stopName": "Venkatapuram",
+      "latitude": 17.0259,
+      "longitude": 82.1369,
+      "landmark": "Temple",
+      "radiusMeters": 250,
+      "active": true,
+      "createdAt": "2026-06-22T15:58:01.421Z",
+      "updatedAt": "2026-06-22T15:58:01.421Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a395b89a30544606dc82c2a",
+      "stopName": "Lalacheruvu",
+      "latitude": 17.0125,
+      "longitude": 81.8025,
+      "landmark": "High School",
+      "radiusMeters": 250,
+      "active": true,
+      "createdAt": "2026-06-22T15:58:01.421Z",
+      "updatedAt": "2026-06-22T15:58:01.421Z",
+      "__v": 0
+    }
+  ],
+  "systemSettings": [
+    {
+      "_id": "6a395bc434e60b31405cd3b4",
+      "key": "demo.freeze",
+      "value": false,
+      "updatedAt": "2026-06-22T16:55:51.930Z",
+      "createdAt": "2026-06-22T15:59:00.512Z",
+      "__v": 0
+    }
+  ]
+}

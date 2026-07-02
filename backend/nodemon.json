@@ -1,0 +1,8 @@
+{
+  "ignore": [
+    "db.json",
+    "sms_log.json",
+    "*.log",
+    "*.json"
+  ]
+}
