@@ -7,7 +7,7 @@ import { mock } from './mockBackend';
 import { trackingMock, type TrackingBus, type TrackingRoute, type TrackingTrip, type TrackingProgressVillage } from './trackingMock';
 export type { TrackingBus, TrackingRoute, TrackingTrip, TrackingProgressVillage };
 
-const API_BASE = (((import.meta as unknown) as { env?: { VITE_API_BASE_URL?: string } }).env?.VITE_API_BASE_URL) || '/api';
+const API_BASE = import.meta.env.VITE_API_BASE_URL || '/api';
 
 export type Role = 'student' | 'parent' | 'admin' | 'driver';
 

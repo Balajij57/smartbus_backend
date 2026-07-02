@@ -2,7 +2,7 @@ import { io, type Socket } from 'socket.io-client';
 import { useState, useEffect } from 'react';
 
 const SOCKET_URL = (() => {
-  const envUrl = ((import.meta as any).env?.VITE_API_BASE_URL);
+  const envUrl = import.meta.env.VITE_API_BASE_URL;
   if (envUrl) {
     return envUrl.replace(/\/api\/?$/, '');
   }
