@@ -342,6 +342,48 @@ export const mock = {
     return loadDB().buses;
   },
 
+  async createBus(body: any): Promise<Bus> {
+    const db = loadDB();
+    if (!body.busNumber) throw new Error('Bus Number is required');
+    const newBus: any = {
+      bus_id: `BUS-${uuidv4().substring(0, 8)}`,
+      bus_number: body.busNumber,
+      busNumber: body.busNumber,
+      busName: body.busName || '',
+      vehicleNumber: body.vehicleNumber || '',
+      capacity: Number(body.capacity) || 40,
+      status: body.status || 'inactive',
+      route_name: body.routeName || '',
+      routeName: body.routeName || '',
+    };
+    db.buses.unshift(newBus);
+    saveDB(db);
+    return newBus;
+  },
+
+  async updateBus(id: string, body: any): Promise<Bus> {
+    const db = loadDB();
+    const idx = db.buses.findIndex((x) => x.bus_id === id);
+    if (idx === -1) throw new Error('Bus not found');
+    db.buses[idx] = {
+      ...db.buses[idx],
+      ...body,
+      bus_number: body.busNumber || db.buses[idx].bus_number || db.buses[idx].busNumber,
+      busNumber: body.busNumber || db.buses[idx].busNumber || db.buses[idx].bus_number,
+      route_name: body.routeName || body.busName || db.buses[idx].route_name,
+      bus_id: id
+    };
+    saveDB(db);
+    return db.buses[idx];
+  },
+
+  async deleteBus(id: string): Promise<{ ok: true }> {
+    const db = loadDB();
+    db.buses = db.buses.filter((x) => x.bus_id !== id);
+    saveDB(db);
+    return { ok: true };
+  },
+
   async listAlerts(): Promise<AlertRec[]> {
     return loadDB().alerts;
   },
